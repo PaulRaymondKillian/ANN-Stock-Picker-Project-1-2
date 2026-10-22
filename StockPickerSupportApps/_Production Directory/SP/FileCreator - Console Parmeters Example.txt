@@ -1,0 +1,6 @@
+You can run this program through the console. It requires the following Parameters:
+
+FileCreator.exe "Start Date" "Industry" "Output File Save Location"
+
+Example:
+	FileCreator.exe 1-2-2009 "Electric Utilities" "C:\SP\Test.RAW_DATA"

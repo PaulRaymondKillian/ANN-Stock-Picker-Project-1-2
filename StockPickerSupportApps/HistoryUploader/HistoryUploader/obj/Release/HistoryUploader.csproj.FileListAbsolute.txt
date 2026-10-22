@@ -1,0 +1,10 @@
+C:\SP\HistoryUploader\HistoryUploader\bin\Release\DataUploader.exe
+C:\SP\HistoryUploader\HistoryUploader\bin\Release\DataUploader.pdb
+C:\SP\HistoryUploader\HistoryUploader\obj\Release\ResolveAssemblyReference.cache
+C:\SP\HistoryUploader\HistoryUploader\obj\Release\DataUploader.exe
+C:\SP\HistoryUploader\HistoryUploader\obj\Release\DataUploader.pdb
+C:\Killian Intelligence Systems\StockPickerSupportApps\HistoryUploader\HistoryUploader\bin\Release\DataUploader.exe
+C:\Killian Intelligence Systems\StockPickerSupportApps\HistoryUploader\HistoryUploader\bin\Release\DataUploader.pdb
+C:\Killian Intelligence Systems\StockPickerSupportApps\HistoryUploader\HistoryUploader\obj\Release\ResolveAssemblyReference.cache
+C:\Killian Intelligence Systems\StockPickerSupportApps\HistoryUploader\HistoryUploader\obj\Release\DataUploader.exe
+C:\Killian Intelligence Systems\StockPickerSupportApps\HistoryUploader\HistoryUploader\obj\Release\DataUploader.pdb

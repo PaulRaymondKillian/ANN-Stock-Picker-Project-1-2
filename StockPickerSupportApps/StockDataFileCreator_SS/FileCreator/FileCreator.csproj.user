@@ -1,0 +1,23 @@
+﻿<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <StartArguments>"AA,AAPL,ABT,AEP,ALL,AMGN,AMZN,AVP,AXP,BA,BAC,BAX,BHI,BK,BMY,C,CAT,CL,CMCSA,COF,COP,COST,CPB,CSCO,CVS,CVX,DD,DELL,DIS,DOW,DVN,EMC,ETR,EXC,F,FCX,FDX,GD,GE,GILD,GS,HAL,HD,HNZ,HON,HPQ,IBM,INTC,JNJ,JPM,KO,LMT,LOW,MCD,MDT,MET,MMM,MO,MON,MRK,MS,MSFT,NKE,NOV,NSC,NWSA,ORCL,OXY,PEP,PFE,PG,QCOM,RF,S,SLB,SLE,SO,T,TGT,TWX,TXN,UNH,UPS,USB,UTX,VZ,WAG,WFC,WMB,WMT,WY,XOM,XRX,GOOG,KFT,NYX,PM,MA" "C:\SP2\Data\Energy\Oil &amp; Gas Operations\OilGasOperations_2Years.RAW_DATA" "1,2,3,4,5,6" "3-31-2009" "3-31-2011"
+</StartArguments>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <StartArguments>"AA,AAPL,ABT,AEP,ALL,AMGN,AMZN,AVP,AXP,BA,BAC,BAX,BHI,BK,BMY,C,CAT,CL,CMCSA,COF,COP,COST,CPB,CSCO,CVS,CVX,DD,DELL,DIS,DOW,DVN,EMC,ETR,EXC,F,FCX,FDX,GD,GE,GILD,GS,HAL,HD,HNZ,HON,HPQ,IBM,INTC,JNJ,JPM,KO,LMT,LOW,MCD,MDT,MET,MMM,MO,MON,MRK,MS,MSFT,NKE,NOV,NSC,NWSA,ORCL,OXY,PEP,PFE,PG,QCOM,RF,S,SLB,SLE,SO,T,TGT,TWX,TXN,UNH,UPS,USB,UTX,VZ,WAG,WFC,WMB,WMT,WY,XOM,XRX,GOOG,KFT,NYX,PM,MA" "C:\SP2\Data\Energy\Oil &amp; Gas Operations\OilGasOperations_2Years.RAW_DATA" "1,2,3,4,5,6" "3-31-2009" "3-31-2011"
+</StartArguments>
+  </PropertyGroup>
+  <PropertyGroup>
+    <PublishUrlHistory>publish\</PublishUrlHistory>
+    <InstallUrlHistory>
+    </InstallUrlHistory>
+    <SupportUrlHistory>
+    </SupportUrlHistory>
+    <UpdateUrlHistory>
+    </UpdateUrlHistory>
+    <BootstrapperUrlHistory>
+    </BootstrapperUrlHistory>
+    <FallbackCulture>en-US</FallbackCulture>
+    <VerifyUploadedFiles>false</VerifyUploadedFiles>
+  </PropertyGroup>
+</Project>

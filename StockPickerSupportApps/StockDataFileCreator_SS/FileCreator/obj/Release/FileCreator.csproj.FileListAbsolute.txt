@@ -1,0 +1,16 @@
+C:\SP\StockDataFileCreator\FileCreator\bin\Release\FileCreator.exe
+C:\SP\StockDataFileCreator\FileCreator\bin\Release\FileCreator.pdb
+C:\SP\StockDataFileCreator\FileCreator\bin\Release\StockDataOrganizer.dll
+C:\SP\StockDataFileCreator\FileCreator\bin\Release\StockDataOrganizer.pdb
+C:\SP\StockDataFileCreator\FileCreator\bin\Release\StockDataOrganizer.xml
+C:\SP\StockDataFileCreator\FileCreator\obj\Release\ResolveAssemblyReference.cache
+C:\SP\StockDataFileCreator\FileCreator\obj\Release\FileCreator.exe
+C:\SP\StockDataFileCreator\FileCreator\obj\Release\FileCreator.pdb
+C:\Killian Intelligence Systems\StockPickerSupportApps\StockDataFileCreator_SS\FileCreator\bin\Release\FileCreator.exe
+C:\Killian Intelligence Systems\StockPickerSupportApps\StockDataFileCreator_SS\FileCreator\bin\Release\FileCreator.pdb
+C:\Killian Intelligence Systems\StockPickerSupportApps\StockDataFileCreator_SS\FileCreator\bin\Release\StockDataOrganizer.dll
+C:\Killian Intelligence Systems\StockPickerSupportApps\StockDataFileCreator_SS\FileCreator\bin\Release\StockDataOrganizer.pdb
+C:\Killian Intelligence Systems\StockPickerSupportApps\StockDataFileCreator_SS\FileCreator\bin\Release\StockDataOrganizer.xml
+C:\Killian Intelligence Systems\StockPickerSupportApps\StockDataFileCreator_SS\FileCreator\obj\Release\ResolveAssemblyReference.cache
+C:\Killian Intelligence Systems\StockPickerSupportApps\StockDataFileCreator_SS\FileCreator\obj\Release\FileCreator.exe
+C:\Killian Intelligence Systems\StockPickerSupportApps\StockDataFileCreator_SS\FileCreator\obj\Release\FileCreator.pdb

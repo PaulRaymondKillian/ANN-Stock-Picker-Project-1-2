@@ -1,0 +1,16 @@
+### Backprop Identification ###
+ID=RealDataTest
+File Title=RealDataTest
+
+### Input Files - !!! NEVER MODIFY THIS PART !!! ###
+DO NOT MODIFY: Dataset file location=Data\RealDataB5.DATA
+DO NOT MODIFY: ANN file location=75.6828_RealDataTest\75.6828_RealDataTest.ANN
+
+### Training Configuration ###
+Initial rho value=0.000059873693924
+Rho multiplier=0.950000000000000
+Rho interval=5
+Use Momentum=0
+Momentum scaler=0.300000000000000
+Simulated annealing max percent(%)=1
+Simulated annealing interval=25

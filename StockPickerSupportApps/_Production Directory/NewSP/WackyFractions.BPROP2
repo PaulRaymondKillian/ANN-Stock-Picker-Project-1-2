@@ -1,0 +1,28 @@
+### Data Set ###
+Dataset file location=C:\Killian Intelligence Systems\Data Files\Fractions\WackyFractions.DATA
+
+### Backprop Configuration ###
+Epochs Per Inteval=1000000
+Intervals=10
+
+### Network Topology ###
+Hidden Neurons=200
+Hidden Layers=2
+
+### Training Configuation ###
+Max weight value=1
+Max bias value= 1
+Initial rho value=0.0001
+Rho multiplier=0.9999
+Dynamic rho interval=500
+Use Momentum=False
+Momentum Scaler=0.3
+Simulated annealing max percent(%)=50
+Simulated annealing interval=30
+
+### Save Data Settings ###
+Save Interval=10
+File Title=xWackyFracsx
+
+### Console Logging ###
+Console Logging Interval=100000

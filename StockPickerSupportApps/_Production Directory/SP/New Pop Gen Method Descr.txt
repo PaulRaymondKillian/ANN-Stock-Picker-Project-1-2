@@ -1,0 +1,30 @@
+**New Gen Method #1: 10 Minimum Popsize Required
+	- Copy BestBackprop
+	- Clone best 5/10
+	- Sim Anneal 2 Cases for each best 1/5
+	- Randomize Rest if any
+
+**New Gen Method #2: 2 Minimum Popsize Required
+	- Copy Best Backprop
+	- Randomize Rest
+
+New Gen Method #3: 51 Minimum Popsize Required
+	- Copy Best Backprop
+	- Sim Anneal Best Backprop 50 times
+	- Randomize Rest if any
+
+New Gen Method #4: 101 Minimum Popsize Required
+	- Copy Best Backprop (1)
+	- Clone 30 Best Backprop Objects (30)
+	- Sim Anneal 2 cases of each 30 best (60)
+	- Randomize Rest (10)
+
+**New Gen Method #5: 1 Minimum Popsize Required
+	- Clone entire population for next generation
+
+New Gen Method #6: 1 Minimum Popsize Required
+	- Copy Best Backprop (1)
+	- Randomize Rest of population
+
+New Gen Method #7: 101 Minimum Popsize Required
+	- Randomly choose methods #1-6 for new population method

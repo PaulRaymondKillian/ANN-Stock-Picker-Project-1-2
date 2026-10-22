@@ -1,0 +1,17 @@
+E:\StockTrader\StockDataConsoleUploader\DataUploader\bin\Debug\DataUploader.exe
+E:\StockTrader\StockDataConsoleUploader\DataUploader\bin\Debug\DataUploader.pdb
+E:\StockTrader\StockDataConsoleUploader\DataUploader\obj\Debug\ResolveAssemblyReference.cache
+E:\StockTrader\StockDataConsoleUploader\DataUploader\obj\Debug\DataUploader.exe
+E:\StockTrader\StockDataConsoleUploader\DataUploader\obj\Debug\DataUploader.pdb
+D:\StockTrader\StockDataConsoleUploader\DataUploader\obj\Debug\DataUploader.exe
+D:\StockTrader\StockDataConsoleUploader\DataUploader\obj\Debug\DataUploader.pdb
+D:\StockTrader\StockDataConsoleUploader\DataUploader\bin\Debug\DataUploader.exe
+D:\StockTrader\StockDataConsoleUploader\DataUploader\bin\Debug\DataUploader.pdb
+D:\StockTrader\StockDataConsoleUploader\DataUploader\obj\Debug\ResolveAssemblyReference.cache
+D:\StockTrader\StockDataHistoryUploader\DataUploader\obj\Debug\DataUploader.exe
+D:\StockTrader\StockDataHistoryUploader\DataUploader\obj\Debug\DataUploader.pdb
+D:\StockTrader\StockDataHistoryUploader\DataUploader\bin\Debug\DataUploader.exe
+D:\StockTrader\StockDataHistoryUploader\DataUploader\bin\Debug\DataUploader.pdb
+D:\StockTrader\StockDataHistoryUploader\DataUploader\obj\Debug\ResolveAssemblyReference.cache
+D:\StockTrader\StockDataFileCreator\FileCreator\obj\Debug\DataUploader.exe
+D:\StockTrader\StockDataFileCreator\FileCreator\obj\Debug\DataUploader.pdb

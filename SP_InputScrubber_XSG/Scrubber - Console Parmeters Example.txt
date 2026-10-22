@@ -1,0 +1,6 @@
+You can run this program through the console. It requires the following Parameters:
+
+SP_InputScrubber_Console.exe "Scrub File Location"
+
+Example:
+	SP_InputScrubber_Console.exe "C:\SP\Test\Test.Scrub"

@@ -1,0 +1,151 @@
+Processing data for Calpine Corporation.
+Processing data for U.S. Geothermal Inc..
+Processing data for Pepco Holdings, Inc..
+Processing data for TECO Energy, Inc..
+---Inserting '2010-02-12' with 'open' = '14.97, 'high' = '14.99, 'low' = '14.77, 'close' = 14.90, 'volume' = '1927400, 'adjusted close' = 14.90'.
+Processing data for Cleco Corporation.
+---Inserting '2010-02-12' with 'open' = '24.82, 'high' = '24.98, 'low' = '24.63, 'close' = 24.98, 'volume' = '229900, 'adjusted close' = 24.98'.
+Processing data for CenterPoint Energy, Inc..
+---Inserting '2010-02-12' with 'open' = '13.64, 'high' = '13.70, 'low' = '13.51, 'close' = 13.65, 'volume' = '5529300, 'adjusted close' = 13.65'.
+Processing data for Otter Tail Corporation.
+---Inserting '2010-02-12' with 'open' = '19.89, 'high' = '20.13, 'low' = '19.76, 'close' = 20.09, 'volume' = '213800, 'adjusted close' = 20.09'.
+Processing data for UniSource Energy Corp..
+---Inserting '2010-02-12' with 'open' = '30.28, 'high' = '30.55, 'low' = '30.15, 'close' = 30.52, 'volume' = '172400, 'adjusted close' = 30.52'.
+Processing data for Progress Energy, Inc..
+---Inserting '2010-02-12' with 'open' = '37.41, 'high' = '37.51, 'low' = '37.04, 'close' = 37.31, 'volume' = '3638700, 'adjusted close' = 37.31'.
+Processing data for Northeast Utilities System.
+---Inserting '2010-02-12' with 'open' = '25.11, 'high' = '25.21, 'low' = '24.90, 'close' = 25.13, 'volume' = '1187300, 'adjusted close' = 25.13'.
+Processing data for Constellation Energy Group, Inc..
+---Inserting '2010-02-12' with 'open' = '32.66, 'high' = '32.72, 'low' = '32.05, 'close' = 32.39, 'volume' = '2236900, 'adjusted close' = 32.39'.
+Processing data for NorthWestern Corporation.
+---Inserting '2010-02-12' with 'open' = '24.16, 'high' = '24.99, 'low' = '24.16, 'close' = 24.83, 'volume' = '199800, 'adjusted close' = 24.83'.
+Processing data for Alliant Energy Corporation.
+---Inserting '2010-02-12' with 'open' = '30.75, 'high' = '30.99, 'low' = '30.48, 'close' = 30.97, 'volume' = '1234400, 'adjusted close' = 30.97'.
+Processing data for Edison International.
+---Inserting '2010-02-12' with 'open' = '32.53, 'high' = '32.61, 'low' = '32.20, 'close' = 32.59, 'volume' = '1893500, 'adjusted close' = 32.59'.
+Processing data for ITC Holdings Corp..
+---Inserting '2010-02-12' with 'open' = '52.03, 'high' = '52.70, 'low' = '51.74, 'close' = 52.70, 'volume' = '235700, 'adjusted close' = 52.70'.
+Processing data for Xcel Energy Inc..
+---Inserting '2010-02-12' with 'open' = '20.12, 'high' = '20.25, 'low' = '20.01, 'close' = 20.23, 'volume' = '3009500, 'adjusted close' = 20.23'.
+Processing data for NSTAR.
+---Inserting '2010-02-12' with 'open' = '32.97, 'high' = '33.14, 'low' = '32.75, 'close' = 33.12, 'volume' = '586500, 'adjusted close' = 33.12'.
+Processing data for Integrys Energy Group, Inc..
+---Inserting '2010-02-12' with 'open' = '41.13, 'high' = '41.30, 'low' = '40.77, 'close' = 41.16, 'volume' = '682600, 'adjusted close' = 41.16'.
+Processing data for Unitil Corporation.
+---Inserting '2010-02-12' with 'open' = '21.42, 'high' = '21.86, 'low' = '21.29, 'close' = 21.77, 'volume' = '25900, 'adjusted close' = 21.77'.
+Processing data for IDACORP, Inc..
+---Inserting '2010-02-12' with 'open' = '31.40, 'high' = '31.80, 'low' = '31.31, 'close' = 31.75, 'volume' = '283500, 'adjusted close' = 31.75'.
+Processing data for PG&E Corporation.
+---Inserting '2010-02-12' with 'open' = '41.02, 'high' = '41.23, 'low' = '40.75, 'close' = 41.02, 'volume' = '2000000, 'adjusted close' = 41.02'.
+Processing data for ALLETE, Inc..
+---Inserting '2010-02-12' with 'open' = '31.09, 'high' = '31.82, 'low' = '31.09, 'close' = 31.62, 'volume' = '220400, 'adjusted close' = 31.62'.
+Processing data for MGE Energy, Inc..
+---Inserting '2010-02-12' with 'open' = '32.56, 'high' = '32.89, 'low' = '32.50, 'close' = 32.78, 'volume' = '39100, 'adjusted close' = 32.78'.
+Processing data for TransAlta Corporation (USA).
+---Inserting '2010-02-12' with 'open' = '21.57, 'high' = '22.08, 'low' = '21.57, 'close' = 22.06, 'volume' = '37400, 'adjusted close' = 22.06'.
+Processing data for Consolidated Edison, Inc..
+---Inserting '2010-02-12' with 'open' = '42.26, 'high' = '42.48, 'low' = '42.09, 'close' = 42.22, 'volume' = '2688500, 'adjusted close' = 42.22'.
+Processing data for Dominion Resources, Inc..
+---Inserting '2010-02-12' with 'open' = '36.80, 'high' = '37.18, 'low' = '36.58, 'close' = 37.14, 'volume' = '3826400, 'adjusted close' = 37.14'.
+Processing data for The Empire District Electric Company.
+---Inserting '2010-02-12' with 'open' = '18.19, 'high' = '18.34, 'low' = '18.09, 'close' = 18.31, 'volume' = '212900, 'adjusted close' = 18.31'.
+Processing data for DPL Inc..
+---Inserting '2010-02-12' with 'open' = '26.64, 'high' = '26.76, 'low' = '26.28, 'close' = 26.71, 'volume' = '1152400, 'adjusted close' = 26.71'.
+Processing data for The Southern Company.
+---Inserting '2010-02-12' with 'open' = '31.09, 'high' = '31.27, 'low' = '30.99, 'close' = 31.17, 'volume' = '6222500, 'adjusted close' = 31.17'.
+Processing data for Wisconsin Energy Corporation.
+---Inserting '2010-02-12' with 'open' = '48.06, 'high' = '48.06, 'low' = '47.43, 'close' = 47.87, 'volume' = '1214000, 'adjusted close' = 47.87'.
+Processing data for Empresa Nacional de Electricidad (ADR).
+---Inserting '2010-02-12' with 'open' = '49.40, 'high' = '49.62, 'low' = '48.93, 'close' = 49.33, 'volume' = '132100, 'adjusted close' = 49.33'.
+Processing data for SCANA Corporation.
+---Inserting '2010-02-12' with 'open' = '34.63, 'high' = '34.88, 'low' = '34.29, 'close' = 34.55, 'volume' = '922000, 'adjusted close' = 34.55'.
+Processing data for Duke Energy Corporation.
+---Inserting '2010-02-12' with 'open' = '16.16, 'high' = '16.27, 'low' = '16.04, 'close' = 16.15, 'volume' = '9332800, 'adjusted close' = 16.15'.
+Processing data for American Electric Power Company, Inc..
+---Inserting '2010-02-12' with 'open' = '32.94, 'high' = '33.09, 'low' = '32.68, 'close' = 32.95, 'volume' = '3188400, 'adjusted close' = 32.95'.
+Processing data for Hawaiian Electric Industries, Inc..
+---Inserting '2010-02-12' with 'open' = '19.82, 'high' = '19.98, 'low' = '19.44, 'close' = 19.94, 'volume' = '784300, 'adjusted close' = 19.94'.
+Processing data for FPL Group, Inc..
+---Inserting '2010-02-12' with 'open' = '45.61, 'high' = '45.83, 'low' = '45.29, 'close' = 45.57, 'volume' = '3253700, 'adjusted close' = 45.57'.
+Processing data for Great Plains Energy Incorporated.
+---Inserting '2010-02-12' with 'open' = '17.50, 'high' = '17.68, 'low' = '17.45, 'close' = 17.68, 'volume' = '833400, 'adjusted close' = 17.68'.
+Processing data for El Paso Electric Company.
+---Inserting '2010-02-12' with 'open' = '19.28, 'high' = '19.41, 'low' = '19.10, 'close' = 19.23, 'volume' = '157600, 'adjusted close' = 19.23'.
+Processing data for Exelon Corporation.
+---Inserting '2010-02-12' with 'open' = '43.57, 'high' = '43.60, 'low' = '42.97, 'close' = 43.30, 'volume' = '5287800, 'adjusted close' = 43.30'.
+Processing data for Akeena Solar, Inc..
+---Inserting '2010-02-12' with 'open' = '1.08, 'high' = '1.09, 'low' = '1.03, 'close' = 1.03, 'volume' = '259300, 'adjusted close' = 1.03'.
+Processing data for A-Power Energy Generation Systems, Ltd..
+---Inserting '2010-02-12' with 'open' = '11.46, 'high' = '11.74, 'low' = '11.20, 'close' = 11.74, 'volume' = '888400, 'adjusted close' = 11.74'.
+Processing data for NV Energy, Inc..
+---Inserting '2010-02-12' with 'open' = '11.04, 'high' = '11.10, 'low' = '10.95, 'close' = 11.09, 'volume' = '2041100, 'adjusted close' = 11.09'.
+Processing data for Pinnacle West Capital Corporation.
+---Inserting '2010-02-12' with 'open' = '35.29, 'high' = '35.35, 'low' = '34.80, 'close' = 35.30, 'volume' = '1151000, 'adjusted close' = 35.30'.
+Processing data for Portland General Electric Company.
+---Inserting '2010-02-12' with 'open' = '18.87, 'high' = '19.02, 'low' = '18.76, 'close' = 18.98, 'volume' = '526000, 'adjusted close' = 18.98'.
+Processing data for PPL Corporation.
+---Inserting '2010-02-12' with 'open' = '29.14, 'high' = '29.25, 'low' = '28.78, 'close' = 29.21, 'volume' = '2308500, 'adjusted close' = 29.21'.
+Processing data for Public Service Enterprise Group Inc..
+---Inserting '2010-02-12' with 'open' = '30.28, 'high' = '30.35, 'low' = '29.90, 'close' = 30.17, 'volume' = '4165100, 'adjusted close' = 30.17'.
+Processing data for Avista Corporation.
+---Inserting '2010-02-12' with 'open' = '19.68, 'high' = '19.73, 'low' = '19.51, 'close' = 19.71, 'volume' = '265000, 'adjusted close' = 19.71'.
+Processing data for National Grid plc (ADR).
+---Inserting '2010-02-12' with 'open' = '49.99, 'high' = '50.39, 'low' = '49.76, 'close' = 50.34, 'volume' = '117300, 'adjusted close' = 50.34'.
+Processing data for Spectra Energy Corp..
+---Inserting '2010-02-12' with 'open' = '20.51, 'high' = '20.82, 'low' = '20.37, 'close' = 20.73, 'volume' = '4316200, 'adjusted close' = 20.73'.
+Processing data for Entergy Corporation.
+---Inserting '2010-02-12' with 'open' = '76.52, 'high' = '77.23, 'low' = '76.30, 'close' = 77.14, 'volume' = '1645300, 'adjusted close' = 77.14'.
+Processing data for Westar Energy, Inc..
+---Inserting '2010-02-12' with 'open' = '21.00, 'high' = '21.22, 'low' = '20.93, 'close' = 21.22, 'volume' = '698200, 'adjusted close' = 21.22'.
+Processing data for FirstEnergy Corp..
+---Inserting '2010-02-12' with 'open' = '39.65, 'high' = '39.72, 'low' = '38.67, 'close' = 39.19, 'volume' = '9142500, 'adjusted close' = 39.19'.
+Processing data for UIL Holdings Corporation.
+---Inserting '2010-02-12' with 'open' = '26.15, 'high' = '26.40, 'low' = '26.00, 'close' = 26.30, 'volume' = '107900, 'adjusted close' = 26.30'.
+Processing data for Covanta Holding Corporation.
+---Inserting '2010-02-12' with 'open' = '16.72, 'high' = '17.14, 'low' = '16.65, 'close' = 17.14, 'volume' = '1471900, 'adjusted close' = 17.14'.
+Processing data for CH Energy Group, Inc..
+---Inserting '2010-02-12' with 'open' = '38.60, 'high' = '39.00, 'low' = '38.29, 'close' = 38.56, 'volume' = '50900, 'adjusted close' = 38.56'.
+Processing data for Dynegy Inc..
+---Inserting '2010-02-12' with 'open' = '1.60, 'high' = '1.65, 'low' = '1.57, 'close' = 1.65, 'volume' = '6267300, 'adjusted close' = 1.65'.
+Processing data for Enersis S.A. (ADR).
+---Inserting '2010-02-12' with 'open' = '21.36, 'high' = '21.65, 'low' = '21.28, 'close' = 21.61, 'volume' = '630100, 'adjusted close' = 21.61'.
+Processing data for Companhia Energetica Minas Gerais (ADR).
+---Inserting '2010-02-12' with 'open' = '16.51, 'high' = '16.80, 'low' = '16.40, 'close' = 16.56, 'volume' = '1779900, 'adjusted close' = 16.56'.
+Processing data for CMS Energy Corporation.
+---Inserting '2010-02-12' with 'open' = '14.81, 'high' = '14.88, 'low' = '14.71, 'close' = 14.83, 'volume' = '3395000, 'adjusted close' = 14.83'.
+Processing data for Black Hills Corporation.
+---Inserting '2010-02-12' with 'open' = '25.97, 'high' = '26.11, 'low' = '25.80, 'close' = 26.02, 'volume' = '195600, 'adjusted close' = 26.02'.
+Processing data for The AES Corporation.
+---Inserting '2010-02-12' with 'open' = '11.79, 'high' = '11.80, 'low' = '11.62, 'close' = 11.77, 'volume' = '10828700, 'adjusted close' = 11.77'.
+Processing data for DTE Energy Company.
+---Inserting '2010-02-12' with 'open' = '41.98, 'high' = '42.12, 'low' = '41.60, 'close' = 41.95, 'volume' = '1109400, 'adjusted close' = 41.95'.
+Processing data for Ameren Corporation.
+---Inserting '2010-02-12' with 'open' = '24.46, 'high' = '24.63, 'low' = '24.25, 'close' = 24.56, 'volume' = '1986800, 'adjusted close' = 24.56'.
+Processing data for Companhia Paranaense de Energia (ADR).
+---Inserting '2010-02-12' with 'open' = '21.24, 'high' = '21.70, 'low' = '21.24, 'close' = 21.56, 'volume' = '231900, 'adjusted close' = 21.56'.
+Processing data for Mirant Corporation.
+---Inserting '2010-02-12' with 'open' = '13.38, 'high' = '13.40, 'low' = '13.07, 'close' = 13.16, 'volume' = '1724500, 'adjusted close' = 13.16'.
+Processing data for Beacon Power Corp..
+---Inserting '2010-02-12' with 'open' = '0.43, 'high' = '0.43, 'low' = '0.41, 'close' = 0.42, 'volume' = '626200, 'adjusted close' = 0.42'.
+Processing data for OGE Energy Corp..
+---Inserting '2010-02-12' with 'open' = '35.59, 'high' = '35.87, 'low' = '35.18, 'close' = 35.87, 'volume' = '511800, 'adjusted close' = 35.87'.
+Processing data for NRG Energy, Inc..
+---Inserting '2010-02-12' with 'open' = '22.05, 'high' = '22.07, 'low' = '21.65, 'close' = 22.06, 'volume' = '4044000, 'adjusted close' = 22.06'.
+Processing data for PNM Resources, Inc..
+---Inserting '2010-02-12' with 'open' = '11.55, 'high' = '11.73, 'low' = '11.54, 'close' = 11.69, 'volume' = '555200, 'adjusted close' = 11.69'.
+Processing data for Allegheny Energy, Inc..
+---Inserting '2010-02-12' with 'open' = '23.49, 'high' = '23.56, 'low' = '22.54, 'close' = 22.72, 'volume' = '13504900, 'adjusted close' = 22.72'.
+Processing data for Huaneng Power International, Inc. (ADR).
+---Inserting '2010-02-12' with 'open' = '24.18, 'high' = '24.18, 'low' = '23.89, 'close' = 24.07, 'volume' = '157000, 'adjusted close' = 24.07'.
+Processing data for Korea Electric Power Corporation (ADR).
+---Inserting '2010-02-12' with 'open' = '17.06, 'high' = '17.47, 'low' = '17.06, 'close' = 17.41, 'volume' = '1334900, 'adjusted close' = 17.41'.
+Processing data for RRI Energy, Inc..
+---Inserting '2010-02-12' with 'open' = '4.71, 'high' = '4.90, 'low' = '4.70, 'close' = 4.89, 'volume' = '4151500, 'adjusted close' = 4.89'.
+Processing data for CPFL Energia S.A. (ADR).
+---Inserting '2010-02-12' with 'open' = '61.35, 'high' = '62.75, 'low' = '60.74, 'close' = 62.63, 'volume' = '85500, 'adjusted close' = 62.63'.
+Processing data for Ocean Power Technologies, Inc..
+---Inserting '2010-02-12' with 'open' = '6.52, 'high' = '6.85, 'low' = '6.30, 'close' = 6.84, 'volume' = '69800, 'adjusted close' = 6.84'.
+Processing data for EnerNOC, Inc..
+---Inserting '2010-02-12' with 'open' = '30.15, 'high' = '35.43, 'low' = '29.51, 'close' = 33.77, 'volume' = '960500, 'adjusted close' = 33.77'.
+Processing data for Brookfield Infrastructure Partners L.P..
+---Inserting '2010-02-12' with 'open' = '16.65, 'high' = '16.76, 'low' = '16.56, 'close' = 16.65, 'volume' = '88800, 'adjusted close' = 16.65'.

@@ -1,0 +1,18 @@
+C:\Documents and Settings\Mutiny34\Local Settings\Application Data\Temporary Projects\SP_InputScrubber_XS\bin\Debug\SP_InputScrubber_XS.exe
+C:\Documents and Settings\Mutiny34\Local Settings\Application Data\Temporary Projects\SP_InputScrubber_XS\bin\Debug\SP_InputScrubber_XS.pdb
+C:\Documents and Settings\Mutiny34\Local Settings\Application Data\Temporary Projects\SP_InputScrubber_XS\bin\Debug\SP_InputScrubber_XS.xml
+C:\Documents and Settings\Mutiny34\Local Settings\Application Data\Temporary Projects\SP_InputScrubber_XS\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Mutiny34\Local Settings\Application Data\Temporary Projects\SP_InputScrubber_XS\obj\Debug\SP_InputScrubber_XS.Resources.resources
+C:\Documents and Settings\Mutiny34\Local Settings\Application Data\Temporary Projects\SP_InputScrubber_XS\obj\Debug\SP_InputScrubber_XS.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Mutiny34\Local Settings\Application Data\Temporary Projects\SP_InputScrubber_XS\obj\Debug\SP_InputScrubber_XS.exe
+C:\Documents and Settings\Mutiny34\Local Settings\Application Data\Temporary Projects\SP_InputScrubber_XS\obj\Debug\SP_InputScrubber_XS.xml
+C:\Documents and Settings\Mutiny34\Local Settings\Application Data\Temporary Projects\SP_InputScrubber_XS\obj\Debug\SP_InputScrubber_XS.pdb
+D:\StockPicker\SP_InputScrubber\SP_InputScrubber_XS\SP_InputScrubber_XS\obj\Debug\SP_InputScrubber_XS.exe
+D:\StockPicker\SP_InputScrubber\SP_InputScrubber_XS\SP_InputScrubber_XS\obj\Debug\SP_InputScrubber_XS.xml
+D:\StockPicker\SP_InputScrubber\SP_InputScrubber_XS\SP_InputScrubber_XS\obj\Debug\SP_InputScrubber_XS.pdb
+D:\StockPicker\SP_InputScrubber\SP_InputScrubber_XS\SP_InputScrubber_XS\bin\Debug\SP_InputScrubber_XS.exe
+D:\StockPicker\SP_InputScrubber\SP_InputScrubber_XS\SP_InputScrubber_XS\bin\Debug\SP_InputScrubber_XS.pdb
+D:\StockPicker\SP_InputScrubber\SP_InputScrubber_XS\SP_InputScrubber_XS\bin\Debug\SP_InputScrubber_XS.xml
+D:\StockPicker\SP_InputScrubber\SP_InputScrubber_XS\SP_InputScrubber_XS\obj\Debug\ResolveAssemblyReference.cache
+D:\StockPicker\SP_InputScrubber\SP_InputScrubber_XS\SP_InputScrubber_XS\obj\Debug\SP_InputScrubber_XS.Resources.resources
+D:\StockPicker\SP_InputScrubber\SP_InputScrubber_XS\SP_InputScrubber_XS\obj\Debug\SP_InputScrubber_XS.vbproj.GenerateResource.Cache

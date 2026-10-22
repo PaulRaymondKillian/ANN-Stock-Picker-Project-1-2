@@ -1,0 +1,78 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1">
+  <asmv1:assemblyIdentity name="ANN_Run_Network.exe" version="1.0.0.0" publicKeyToken="1bbc0ae46451c022" language="neutral" processorArchitecture="msil" type="win32" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="ANN_Run_Network" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+    <commandLine file="ANN_Run_Network.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!--
+          UAC Manifest Options
+          If you want to change the Windows User Account Control level replace the 
+          requestedExecutionLevel node with one of the following.
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+         If you want to utilize File and Registry Virtualization for backward 
+         compatibility then delete the requestedExecutionLevel node.
+    -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="2.0.50727.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="System.Core" version="3.5.0.0" publicKeyToken="b77a5c561934e089" language="neutral" processorArchitecture="msil" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="WindowsBase" version="3.0.0.0" publicKeyToken="31bf3856ad364e35" language="neutral" processorArchitecture="msil" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="ANN_Network.dll" size="24064">
+      <assemblyIdentity name="ANN_Network" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+        <dsig:DigestValue>l/BzuAxKsR+eWuTi62C3IMmedN8=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="ANN_Run_Network.exe" size="27648">
+      <assemblyIdentity name="ANN_Run_Network" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+        <dsig:DigestValue>35dGYvmIIYkESakWQj3CMWz7yZc=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+<publisherIdentity name="CN=LAPPYTOPPY\Mutiny34" issuerKeyHash="f8fd50e153e8b93dec88016b4fb6ca31ff20825d" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>vgMboliPwMm8wwe43ZxGX/OOZF8=</DigestValue></Reference></SignedInfo><SignatureValue>kkFPfyax8Zejb+0juErV2kch9cAzRnMZ/dWqSAw2AjeZQlVmk7adWY48NM+A7Rb9EeDEMTTZcdxfN3Nww265ar/RTiv60age1zElsROf61rlmOLSOOJM1J5jiOaXxLtWpxUeR1wyfAgokyZ8n8f/hUJKGLQtiNwGPfcOvRBxTNw=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>weYa7oYPIv9t9s6lE5yHW/nCuPCE0MhFM6IPSHMw+L7PTGqemZ+XqgOZWX5U8GiGseC/DAJOEdhJGNhYglb2JKVYRXnqiaSy6rJgwWvPBkN/b4s6Xdt7OPaEg9xRBTY3BbWi5MCroAbvI1mUwz8rdw0cuxSPmbGLZwAO5P1G5hk=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="5f648ef35f469cddb807c3bcc9c08f58a21b03be" Description="" Url=""><as:assemblyIdentity name="ANN_Run_Network.exe" version="1.0.0.0" publicKeyToken="1bbc0ae46451c022" language="neutral" processorArchitecture="msil" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=LAPPYTOPPY\Mutiny34</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>O2fOvYcEU5sgne2opVDJMWLAWGU=</DigestValue></Reference></SignedInfo><SignatureValue>E3n3IK9JiRiYrzuXnScIDQMwokZQF+lf/MWP62ibkvVuWtpnYqnHa5dUbLINtmpqLpXtNwKYhLy7fKtXfcbBmOv1Qs5NCW76bkpmkyunpcpW5W3t1S6CrPTPGNYUc2AoYU8KCGBApeJdqErp2+p5x4MevFLp5WxREd7Es+lJ4wU=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>weYa7oYPIv9t9s6lE5yHW/nCuPCE0MhFM6IPSHMw+L7PTGqemZ+XqgOZWX5U8GiGseC/DAJOEdhJGNhYglb2JKVYRXnqiaSy6rJgwWvPBkN/b4s6Xdt7OPaEg9xRBTY3BbWi5MCroAbvI1mUwz8rdw0cuxSPmbGLZwAO5P1G5hk=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIB3TCCAUqgAwIBAgIQbTbN597DXa1HDJEUqse/eTAJBgUrDgMCHQUAMDExLzAtBgNVBAMeJgBMAEEAUABQAFkAVABPAFAAUABZAFwATQB1AHQAaQBuAHkAMwA0MB4XDTA5MDkxMDIwNTUyN1oXDTEwMDkxMTAyNTUyN1owMTEvMC0GA1UEAx4mAEwAQQBQAFAAWQBUAE8AUABQAFkAXABNAHUAdABpAG4AeQAzADQwgZ8wDQYJKoZIhvcNAQEBBQADgY0AMIGJAoGBAMHmGu6GDyL/bfbOpROch1v5wrjwhNDIRTOiD0hzMPi+z0xqnpmfl6oDmVl+VPBohrHgvwwCThHYSRjYWIJW9iSlWEV56omksuqyYMFrzwZDf2+LOl3bezj2hIPcUQU2NwW1ouTAq6AG7yNZlMM/K3cNHLsUj5mxi2cADuT9RuYZAgMBAAEwCQYFKw4DAh0FAAOBgQB7OVImFSoQlPijHAFWalsMa+Rc7EAnquQa9bskqRkqZg7ui3mHKYZB5tzSbJpy2M81C/36hBpuNdRS1X6J1XDAVBdWQH1E/aNZsnaPvphkxroTH6/VlGgpy6HOv1NbFy8zk+USfvhsnRxDwRw9A06h7uNDZ/z8k5YHe4Tef+Sl9w==</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>

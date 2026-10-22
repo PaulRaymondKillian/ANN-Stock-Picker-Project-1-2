@@ -1,0 +1,19 @@
+Output File Information:
+Input File contained 24 total parameters per row, 6 parameters per stock per unit of time for 4 stocks.
+Each row of output file contains data for 1 units of time per stock.
+Each row of output file contains results for 1 units of time in the future per stock.
+
+Data Row 0: 1 Buys = 1, 0, 0, 0
+Data Row 1: 2 Buys = 1, 0, 1, 0
+Data Row 2: 1 Buys = 1, 0, 0, 0
+Data Row 3: 2 Buys = 1, 0, 1, 0
+Data Row 4: 1 Buys = 1, 0, 0, 0
+Data Row 5: 2 Buys = 1, 0, 1, 0
+Data Row 6: 0 Buys = 0, 0, 0, 0
+Data Row 7: 1 Buys = 0, 0, 1, 0
+Data Row 8: 0 Buys = 0, 0, 0, 0
+Data Row 9: 1 Buys = 0, 0, 1, 0
+Data Row 10: 0 Buys = 0, 0, 0, 0
+Data Row 11: 1 Buys = 0, 0, 1, 0
+Data Row 12: 0 Buys = 0, 0, 0, 0
+Data Row 13: 1 Buys = 0, 0, 1, 0

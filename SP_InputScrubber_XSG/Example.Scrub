@@ -1,0 +1,16 @@
+### Raw Data File ###
+Input File Location=C:\SP\StockDataFileCreator\FileCreator\bin\Debug\1-2-2003.txt
+
+### Output Settings ### 0=Bin Threshold, 1=Linear, 2=LinearX10, 3=Squared, 4=Adjusted Exp
+Adjust Volume=False
+Output Type=0
+Percent Threshold=5
+Exponent Power=
+Binary Threshold Inverse=False
+Binary Threshold Output=100
+Output File Suffix=_Test
+
+### Prediction Settings ###
+Input Time Units=1
+Predicted Time Units=1
+Stagger Input Rows=True

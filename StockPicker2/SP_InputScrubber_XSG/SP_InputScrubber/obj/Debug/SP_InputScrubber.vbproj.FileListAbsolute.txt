@@ -1,0 +1,9 @@
+C:\Killian Intelligence Systems\StockPicker\SP_InputScrubber\SP_InputScrubber_XSG\SP_InputScrubber\bin\Debug\SP_InputScrubber.dll
+C:\Killian Intelligence Systems\StockPicker\SP_InputScrubber\SP_InputScrubber_XSG\SP_InputScrubber\bin\Debug\SP_InputScrubber.pdb
+C:\Killian Intelligence Systems\StockPicker\SP_InputScrubber\SP_InputScrubber_XSG\SP_InputScrubber\bin\Debug\SP_InputScrubber.xml
+C:\Killian Intelligence Systems\StockPicker\SP_InputScrubber\SP_InputScrubber_XSG\SP_InputScrubber\obj\Debug\ResolveAssemblyReference.cache
+C:\Killian Intelligence Systems\StockPicker\SP_InputScrubber\SP_InputScrubber_XSG\SP_InputScrubber\obj\Debug\SP_InputScrubber.Resources.resources
+C:\Killian Intelligence Systems\StockPicker\SP_InputScrubber\SP_InputScrubber_XSG\SP_InputScrubber\obj\Debug\SP_InputScrubber.vbproj.GenerateResource.Cache
+C:\Killian Intelligence Systems\StockPicker\SP_InputScrubber\SP_InputScrubber_XSG\SP_InputScrubber\obj\Debug\SP_InputScrubber.dll
+C:\Killian Intelligence Systems\StockPicker\SP_InputScrubber\SP_InputScrubber_XSG\SP_InputScrubber\obj\Debug\SP_InputScrubber.xml
+C:\Killian Intelligence Systems\StockPicker\SP_InputScrubber\SP_InputScrubber_XSG\SP_InputScrubber\obj\Debug\SP_InputScrubber.pdb

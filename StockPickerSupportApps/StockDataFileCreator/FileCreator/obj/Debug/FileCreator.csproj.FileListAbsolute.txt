@@ -1,0 +1,13 @@
+D:\StockTrader\StockDataFileCreator\FileCreator\bin\Debug\DataUploader.exe
+D:\StockTrader\StockDataFileCreator\FileCreator\bin\Debug\DataUploader.pdb
+D:\StockTrader\StockDataFileCreator\FileCreator\obj\Debug\ResolveAssemblyReference.cache
+D:\StockTrader\StockDataFileCreator\FileCreator\obj\Debug\DataUploader.exe
+D:\StockTrader\StockDataFileCreator\FileCreator\obj\Debug\DataUploader.pdb
+C:\SP\StockDataFileCreator\FileCreator\obj\Debug\ResolveAssemblyReference.cache
+C:\SP\StockDataFileCreator\FileCreator\bin\Debug\StockDataOrganizer.dll
+C:\SP\StockDataFileCreator\FileCreator\bin\Debug\StockDataOrganizer.pdb
+C:\SP\StockDataFileCreator\FileCreator\bin\Debug\StockDataOrganizer.xml
+C:\SP\StockDataFileCreator\FileCreator\bin\Debug\FileCreator.exe
+C:\SP\StockDataFileCreator\FileCreator\bin\Debug\FileCreator.pdb
+C:\SP\StockDataFileCreator\FileCreator\obj\Debug\FileCreator.exe
+C:\SP\StockDataFileCreator\FileCreator\obj\Debug\FileCreator.pdb

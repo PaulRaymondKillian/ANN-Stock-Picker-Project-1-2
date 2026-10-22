@@ -1,0 +1,15 @@
+D:\StockTrader\StockDataHistoryUploader\HistoryUploader\obj\Debug\DataUploader.exe
+D:\StockTrader\StockDataHistoryUploader\HistoryUploader\obj\Debug\DataUploader.pdb
+D:\StockTrader\StockDataHistoryUploader\HistoryUploader\bin\Debug\DataUploader.exe
+D:\StockTrader\StockDataHistoryUploader\HistoryUploader\bin\Debug\DataUploader.pdb
+D:\StockTrader\StockDataHistoryUploader\HistoryUploader\obj\Debug\ResolveAssemblyReference.cache
+C:\SP\HistoryUploader\HistoryUploader\obj\Debug\DataUploader.exe
+C:\SP\HistoryUploader\HistoryUploader\obj\Debug\DataUploader.pdb
+C:\SP\HistoryUploader\HistoryUploader\bin\Debug\DataUploader.exe
+C:\SP\HistoryUploader\HistoryUploader\bin\Debug\DataUploader.pdb
+C:\SP\HistoryUploader\HistoryUploader\obj\Debug\ResolveAssemblyReference.cache
+C:\Killian Intelligence Systems\StockPickerSupportApps\HistoryUploader\HistoryUploader\obj\Debug\DataUploader.exe
+C:\Killian Intelligence Systems\StockPickerSupportApps\HistoryUploader\HistoryUploader\obj\Debug\DataUploader.pdb
+C:\Killian Intelligence Systems\StockPickerSupportApps\HistoryUploader\HistoryUploader\bin\Debug\DataUploader.exe
+C:\Killian Intelligence Systems\StockPickerSupportApps\HistoryUploader\HistoryUploader\bin\Debug\DataUploader.pdb
+C:\Killian Intelligence Systems\StockPickerSupportApps\HistoryUploader\HistoryUploader\obj\Debug\ResolveAssemblyReference.cache

@@ -1,0 +1,9 @@
+C:\Documents and Settings\Mutiny34\Local Settings\Application Data\Temporary Projects\SP_InputScrubber\bin\Debug\SP_InputScrubber.exe
+C:\Documents and Settings\Mutiny34\Local Settings\Application Data\Temporary Projects\SP_InputScrubber\bin\Debug\SP_InputScrubber.pdb
+C:\Documents and Settings\Mutiny34\Local Settings\Application Data\Temporary Projects\SP_InputScrubber\bin\Debug\SP_InputScrubber.xml
+C:\Documents and Settings\Mutiny34\Local Settings\Application Data\Temporary Projects\SP_InputScrubber\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Mutiny34\Local Settings\Application Data\Temporary Projects\SP_InputScrubber\obj\Debug\SP_InputScrubber.Resources.resources
+C:\Documents and Settings\Mutiny34\Local Settings\Application Data\Temporary Projects\SP_InputScrubber\obj\Debug\SP_InputScrubber.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Mutiny34\Local Settings\Application Data\Temporary Projects\SP_InputScrubber\obj\Debug\SP_InputScrubber.exe
+C:\Documents and Settings\Mutiny34\Local Settings\Application Data\Temporary Projects\SP_InputScrubber\obj\Debug\SP_InputScrubber.xml
+C:\Documents and Settings\Mutiny34\Local Settings\Application Data\Temporary Projects\SP_InputScrubber\obj\Debug\SP_InputScrubber.pdb

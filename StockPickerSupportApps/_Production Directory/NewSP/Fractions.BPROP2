@@ -1,0 +1,28 @@
+### Data Set ###
+Dataset file location=C:\Killian Intelligence Systems\Data Files\Fractions\Fractions.txt
+
+### Backprop Configuration ###
+Epochs Per Inteval=10
+Intervals=10
+
+### Network Topology ###
+Hidden Neurons=4
+Hidden Layers=1
+
+### Training Configuation ###
+Max weight value=1
+Max bias value= 1
+Initial rho value=0.01
+Rho multiplier=0.999
+Dynamic rho interval=500
+Use Momentum=False
+Momentum Scaler=0.3
+Simulated annealing max percent(%)=50000
+Simulated annealing interval=5
+
+### Save Data Settings ###
+Save Interval=10
+File Title=xTestx
+
+### Console Logging ###
+Console Logging Interval=10000

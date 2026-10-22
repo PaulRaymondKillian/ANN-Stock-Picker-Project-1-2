@@ -1,0 +1,14 @@
+D:\StockPicker\SP_InputScrubber\SP_InputScrubber_XSG\SP_InputScrubber_XSG\bin\Release\SP_InputScrubber_XSG.exe
+D:\StockPicker\SP_InputScrubber\SP_InputScrubber_XSG\SP_InputScrubber_XSG\bin\Release\SP_InputScrubber_XSG.pdb
+D:\StockPicker\SP_InputScrubber\SP_InputScrubber_XSG\SP_InputScrubber_XSG\bin\Release\SP_InputScrubber_XSG.xml
+D:\StockPicker\SP_InputScrubber\SP_InputScrubber_XSG\SP_InputScrubber_XSG\obj\Release\ResolveAssemblyReference.cache
+D:\StockPicker\SP_InputScrubber\SP_InputScrubber_XSG\SP_InputScrubber_XSG\obj\Release\SP_InputScrubber_XSG.Form1.resources
+D:\StockPicker\SP_InputScrubber\SP_InputScrubber_XSG\SP_InputScrubber_XSG\obj\Release\SP_InputScrubber_XSG.Resources.resources
+D:\StockPicker\SP_InputScrubber\SP_InputScrubber_XSG\SP_InputScrubber_XSG\obj\Release\SP_InputScrubber_XSG.vbproj.GenerateResource.Cache
+D:\StockPicker\SP_InputScrubber\SP_InputScrubber_XSG\SP_InputScrubber_XSG\obj\Release\SP_InputScrubber_XSG.exe
+D:\StockPicker\SP_InputScrubber\SP_InputScrubber_XSG\SP_InputScrubber_XSG\obj\Release\SP_InputScrubber_XSG.xml
+D:\StockPicker\SP_InputScrubber\SP_InputScrubber_XSG\SP_InputScrubber_XSG\obj\Release\SP_InputScrubber_XSG.pdb
+D:\StockPicker\SP_InputScrubber\SP_InputScrubber_XSG\SP_InputScrubber_XSG\bin\Release\SP_InputScrubber_XSG.exe.manifest
+D:\StockPicker\SP_InputScrubber\SP_InputScrubber_XSG\SP_InputScrubber_XSG\bin\Release\SP_InputScrubber_XSG.application
+D:\StockPicker\SP_InputScrubber\SP_InputScrubber_XSG\SP_InputScrubber_XSG\obj\Release\SP_InputScrubber_XSG.exe.manifest
+D:\StockPicker\SP_InputScrubber\SP_InputScrubber_XSG\SP_InputScrubber_XSG\obj\Release\SP_InputScrubber_XSG.application

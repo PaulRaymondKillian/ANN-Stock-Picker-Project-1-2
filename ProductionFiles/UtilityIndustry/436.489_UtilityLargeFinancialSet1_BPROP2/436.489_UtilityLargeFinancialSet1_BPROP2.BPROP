@@ -1,0 +1,16 @@
+### Backprop Identification ###
+ID=UtilityLargeFinancialSet1_BPROP2
+File Title=UtilityLargeFinancialSet1_BPROP2
+
+### Input Files - !!! NEVER MODIFY THIS PART !!! ###
+DO NOT MODIFY: Dataset file location=C:\_KillianIntelligentAnalytics\ProductionFiles\UtilityIndustry\UtilityIndustryIndustry_StockList_Large_05-19-2020 1138AM_Method16_100_0.DATA
+DO NOT MODIFY: ANN file location=C:\_KillianIntelligentAnalytics\ProductionFiles\UtilityIndustry\436.489_UtilityLargeFinancialSet1_BPROP2\436.489_UtilityLargeFinancialSet1_BPROP2.ANN
+
+### Training Configuration ###
+Initial rho value=0.0001351999
+Rho multiplier=0.9990000000
+Rho interval=1
+Use Momentum=0
+Momentum scaler=0.0000001000
+Simulated annealing max percent(%)=1
+Simulated annealing interval=500

@@ -1,0 +1,4 @@
+SpeedTest.BPROP2
+Fractions.BPROP2
+RealDataTest.BPROP2
+WackyFractions.BPROP2

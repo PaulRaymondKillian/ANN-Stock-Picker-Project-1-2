@@ -1,0 +1,92 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly manifestVersion="1.0" xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1">
+  <asmv1:assemblyIdentity version="1.0.0.0" name="ANN_Viewer.exe" publicKeyToken="a2b54d21dc4705a2" language="neutral" processorArchitecture="msil" type="win32" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="ANN_Viewer" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+    <commandLine file="ANN_Viewer.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!-- UAC Manifest Options
+            If you want to change the Windows User Account Control level replace the 
+            requestedExecutionLevel node with one of the following.
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+            If you want to utilize File and Registry Virtualization for backward 
+            compatibility then delete the requestedExecutionLevel node.
+        -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="2.0.50727.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.DirectX" version="1.0.2902.0" publicKeyToken="31BF3856AD364E35" language="neutral" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.DirectX.Direct3D" version="1.0.2902.0" publicKeyToken="31BF3856AD364E35" language="neutral" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.DirectX.Direct3DX" version="1.0.2911.0" publicKeyToken="31BF3856AD364E35" language="neutral" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="System.Core" version="3.5.0.0" publicKeyToken="b77a5c561934e089" language="neutral" processorArchitecture="msil" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="WindowsBase" version="3.0.0.0" publicKeyToken="31bf3856ad364e35" language="neutral" processorArchitecture="msil" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="ANN_Network.dll" size="24064">
+      <assemblyIdentity name="ANN_Network" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+        <dsig:DigestValue>l/BzuAxKsR+eWuTi62C3IMmedN8=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="ANN_Viewer.exe" size="142336">
+      <assemblyIdentity name="ANN_Viewer" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+        <dsig:DigestValue>qMXdzDCOuPeYjy7pxoWk91oNhnM=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+<publisherIdentity name="CN=LAPPYTOPPY\Mutiny34" issuerKeyHash="d028fd81eca98aa5a076973da66c219efff6a6b2" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>c1xq/Y0lBaeVqmeYR+gwa/AZhOc=</DigestValue></Reference></SignedInfo><SignatureValue>VxOqg5YExhgXDxMsEB9gKieP0+pPa8SRAPMZkH2zpO4Ktl0CI7JdK8iZtETzSw+gN+Sv5WeffW4ELgQY75d9BUgr1/EfqUJh0afnMixWhdy1G9kbJZQXmxUETcujbXw1NGv4U3AvFULDYaGs53C4ui2AtMa+GRDOaHM0FkabsNM=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>v0NMUJ8FUm5M4yjX0gmU60KbHz4Yd1gvn/BU1a6TvXZFRhCEuQr9a9LWkKkA7ZyhQ9JbiK4tA4Yq2rUvCp/cG104VVHoopxltDQhC5WO6AEittWoPXBNX1Bc4+agTP3qtxUeJ5mQ/mUg4A5oznppf4oKPq6AygSJGDIKq0+KDqk=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="e78419f06b30e8479867aa95a705258dfd6a5c73" Description="" Url=""><as:assemblyIdentity version="1.0.0.0" name="ANN_Viewer.exe" publicKeyToken="a2b54d21dc4705a2" language="neutral" processorArchitecture="msil" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=LAPPYTOPPY\Mutiny34</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>oHAvVW/L8qMkQIejyTiV2T8kCYM=</DigestValue></Reference></SignedInfo><SignatureValue>O5vRQhDvVABf/abo/5cmvJdxDD/gs1eyhhdsCy/BCcaQpzKiBJrJBdoXUM1EIldkYSwLqAriWiO4S3vgL/y02CBWw5q2J3RaACNfh6cQlLR45F+ArCmmN58DAiG+ofEfwSfIv1GjaLsREkA8nMFwxZiaAX/dHhU5cKh4pXYV5vc=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>v0NMUJ8FUm5M4yjX0gmU60KbHz4Yd1gvn/BU1a6TvXZFRhCEuQr9a9LWkKkA7ZyhQ9JbiK4tA4Yq2rUvCp/cG104VVHoopxltDQhC5WO6AEittWoPXBNX1Bc4+agTP3qtxUeJ5mQ/mUg4A5oznppf4oKPq6AygSJGDIKq0+KDqk=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIB3TCCAUqgAwIBAgIQP/siuWLzcbxLvaJCzgiF3zAJBgUrDgMCHQUAMDExLzAtBgNVBAMeJgBMAEEAUABQAFkAVABPAFAAUABZAFwATQB1AHQAaQBuAHkAMwA0MB4XDTA5MDkxMDIwNTEwMloXDTEwMDkxMTAyNTEwMlowMTEvMC0GA1UEAx4mAEwAQQBQAFAAWQBUAE8AUABQAFkAXABNAHUAdABpAG4AeQAzADQwgZ8wDQYJKoZIhvcNAQEBBQADgY0AMIGJAoGBAL9DTFCfBVJuTOMo19IJlOtCmx8+GHdYL5/wVNWuk712RUYQhLkK/WvS1pCpAO2coUPSW4iuLQOGKtq1Lwqf3BtdOFVR6KKcZbQ0IQuVjugBIrbVqD1wTV9QXOPmoEz96rcVHieZkP5lIOAOaM56aX+KCj6ugMoEiRgyCqtPig6pAgMBAAEwCQYFKw4DAh0FAAOBgQBreTU0AgOep6Tg3iM9pPhkML6CcSHJArqd/RO9JH3fTrz5Pfa4shfvX8BfOG0aZQBCuzptxlIFw9JSJUMY16zYSFSKhUoVuBJaRrJRsC9xH3tgv/fn1RZHVYBa3CzBx1q8EPYd6tCAyc1jTIRcMpkfPF9BNETLjsB0HU1EjqEjIw==</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>

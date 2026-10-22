@@ -1,0 +1,1 @@
+Data Source=KILLIAN-PC\SQLEXPRESS;Initial Catalog=StockData;Integrated Security=SSPI;MultipleActiveResultSets=True

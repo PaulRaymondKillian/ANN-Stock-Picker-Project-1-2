@@ -1,0 +1,10 @@
+AXP
+BAC
+BRK.A
+BRK.B
+BR
+JPM
+MA
+MCO
+QTWO
+V

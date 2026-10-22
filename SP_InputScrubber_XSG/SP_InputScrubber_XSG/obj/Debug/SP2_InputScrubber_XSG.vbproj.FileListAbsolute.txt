@@ -1,0 +1,3 @@
+C:\Killian Intelligence Systems\StockPicker2\SP_InputScrubber_XSG\SP_InputScrubber_XSG\obj\Debug\SP_InputScrubber_XSG.exe
+C:\Killian Intelligence Systems\StockPicker2\SP_InputScrubber_XSG\SP_InputScrubber_XSG\obj\Debug\SP_InputScrubber_XSG.xml
+C:\Killian Intelligence Systems\StockPicker2\SP_InputScrubber_XSG\SP_InputScrubber_XSG\obj\Debug\SP_InputScrubber_XSG.pdb

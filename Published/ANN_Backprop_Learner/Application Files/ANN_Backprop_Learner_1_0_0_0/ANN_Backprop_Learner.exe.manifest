@@ -1,0 +1,102 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1">
+  <asmv1:assemblyIdentity name="ANN_Backprop_Learner.exe" version="1.0.0.0" publicKeyToken="18690ae69f2cf5f5" language="neutral" processorArchitecture="msil" type="win32" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="ANN_Backprop_Learner" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+    <commandLine file="ANN_Backprop_Learner.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!--
+          UAC Manifest Options
+          If you want to change the Windows User Account Control level replace the 
+          requestedExecutionLevel node with one of the following.
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+         If you want to utilize File and Registry Virtualization for backward 
+         compatibility then delete the requestedExecutionLevel node.
+    -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="2.0.50727.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="System.Core" version="3.5.0.0" publicKeyToken="b77a5c561934e089" language="neutral" processorArchitecture="msil" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="WindowsBase" version="3.0.0.0" publicKeyToken="31bf3856ad364e35" language="neutral" processorArchitecture="msil" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="ANN_Backprop.dll" size="21504">
+      <assemblyIdentity name="ANN_Backprop" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+        <dsig:DigestValue>yCc82os4rRPyibmTakNALOA2ido=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="ANN_Backprop_Learner.exe" size="40960">
+      <assemblyIdentity name="ANN_Backprop_Learner" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+        <dsig:DigestValue>FOdP/DPKOqL7D3gzrkCad70jD1I=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="ANN_Network.dll" size="24064">
+      <assemblyIdentity name="ANN_Network" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+        <dsig:DigestValue>l/BzuAxKsR+eWuTi62C3IMmedN8=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="ANN_Run_Network.exe" size="27648">
+      <assemblyIdentity name="ANN_Run_Network" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+        <dsig:DigestValue>35dGYvmIIYkESakWQj3CMWz7yZc=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+<publisherIdentity name="CN=LAPPYTOPPY\Mutiny34" issuerKeyHash="73a29b9d6ae6dc8614aac281a9170e5b3f66e9bd" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>cMLx6LsqVi6/dL+8RYFjvZf/aLI=</DigestValue></Reference></SignedInfo><SignatureValue>YPws5Mzyw/KY+IPBAsnn1cqg3+zZCZxhg/R9CxjiQ19aZTidga475OK1/8WtsxLZkRixC0ByDIgMkaUrdY7bPaRrZCl44IyXdxrDWYUYDVttQ8azO7TQxOipM8R+Io6AReTwhEikq1tlaoSdcSZicXmMubEe8Pk5JxWqlznLC3U=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>xXRQJRndmZvH7k5aM1ggdnFdNeia8gyJPfnnXoiAbFys9551UfDVXYXx0ve7Vtg0M22qi21CaT+Y1kCGEAAwNihgybVrCy/xcb2xt7hehXYVkcYd4v//TyUG/C/GAAMIYIFoFafz7vOu4QGTHgX99HL76KJaAJbjxYPMGb0xNBE=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="b268ff97bd638145bcbf74bf2e562abbe8f1c270" Description="" Url=""><as:assemblyIdentity name="ANN_Backprop_Learner.exe" version="1.0.0.0" publicKeyToken="18690ae69f2cf5f5" language="neutral" processorArchitecture="msil" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=LAPPYTOPPY\Mutiny34</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>S7aHulsNs3ULlgP4sVj4+V4HGZs=</DigestValue></Reference></SignedInfo><SignatureValue>qTqlmG7PTI4zv6p8TQiLIK4IJegXX5Fc1mH/ZoRRlVlb/XpYoqQF6MVXhS7hlqz/5E3ZZaLojiEKNmYVQMRsIvV3nmz6XsVAQmytNXIYf/0yW6PmSv6kGFQxvuz1S8u9M9q+w2Xf5tHpFb/ub/lVPAIofm32sjnx0548GLCs2AY=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>xXRQJRndmZvH7k5aM1ggdnFdNeia8gyJPfnnXoiAbFys9551UfDVXYXx0ve7Vtg0M22qi21CaT+Y1kCGEAAwNihgybVrCy/xcb2xt7hehXYVkcYd4v//TyUG/C/GAAMIYIFoFafz7vOu4QGTHgX99HL76KJaAJbjxYPMGb0xNBE=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIB3TCCAUqgAwIBAgIQQzOrOxGuUbpLSbUoj/ButzAJBgUrDgMCHQUAMDExLzAtBgNVBAMeJgBMAEEAUABQAFkAVABPAFAAUABZAFwATQB1AHQAaQBuAHkAMwA0MB4XDTA5MDkxMDIwNTY0MVoXDTEwMDkxMTAyNTY0MVowMTEvMC0GA1UEAx4mAEwAQQBQAFAAWQBUAE8AUABQAFkAXABNAHUAdABpAG4AeQAzADQwgZ8wDQYJKoZIhvcNAQEBBQADgY0AMIGJAoGBAMV0UCUZ3Zmbx+5OWjNYIHZxXTXomvIMiT35516IgGxcrPeedVHw1V2F8dL3u1bYNDNtqottQmk/mNZAhhAAMDYoYMm1awsv8XG9sbe4XoV2FZHGHeL//08lBvwvxgADCGCBaBWn8+7zruEBkx4F/fRy++iiWgCW48WDzBm9MTQRAgMBAAEwCQYFKw4DAh0FAAOBgQAOeOlulJVPzrpoCSpg11v+bIIEcphiJUhwGTd7RioRUNmEWdDEWZZy1poMpURWyzCJ2CrwenJvUKYBgWeLl+aYaovoSim1QAMMX6TEyxighXSOb7qu8n7yRNca+97oHRBiYEu/f+HEPUTEob1AswQ6OizAoZ3HrH6/qhgR+HWo8w==</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>

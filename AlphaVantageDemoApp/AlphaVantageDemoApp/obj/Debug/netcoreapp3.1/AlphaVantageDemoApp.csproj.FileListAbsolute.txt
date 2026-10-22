@@ -1,0 +1,11 @@
+C:\_Killian Intelligence Systems\AlphaVantageDemoApp\AlphaVantageDemoApp\bin\Debug\netcoreapp3.1\AlphaVantageDemoApp.exe
+C:\_Killian Intelligence Systems\AlphaVantageDemoApp\AlphaVantageDemoApp\bin\Debug\netcoreapp3.1\AlphaVantageDemoApp.deps.json
+C:\_Killian Intelligence Systems\AlphaVantageDemoApp\AlphaVantageDemoApp\bin\Debug\netcoreapp3.1\AlphaVantageDemoApp.runtimeconfig.json
+C:\_Killian Intelligence Systems\AlphaVantageDemoApp\AlphaVantageDemoApp\bin\Debug\netcoreapp3.1\AlphaVantageDemoApp.runtimeconfig.dev.json
+C:\_Killian Intelligence Systems\AlphaVantageDemoApp\AlphaVantageDemoApp\bin\Debug\netcoreapp3.1\AlphaVantageDemoApp.dll
+C:\_Killian Intelligence Systems\AlphaVantageDemoApp\AlphaVantageDemoApp\bin\Debug\netcoreapp3.1\AlphaVantageDemoApp.pdb
+C:\_Killian Intelligence Systems\AlphaVantageDemoApp\AlphaVantageDemoApp\obj\Debug\netcoreapp3.1\AlphaVantageDemoApp.AssemblyInfoInputs.cache
+C:\_Killian Intelligence Systems\AlphaVantageDemoApp\AlphaVantageDemoApp\obj\Debug\netcoreapp3.1\AlphaVantageDemoApp.AssemblyInfo.cs
+C:\_Killian Intelligence Systems\AlphaVantageDemoApp\AlphaVantageDemoApp\obj\Debug\netcoreapp3.1\AlphaVantageDemoApp.dll
+C:\_Killian Intelligence Systems\AlphaVantageDemoApp\AlphaVantageDemoApp\obj\Debug\netcoreapp3.1\AlphaVantageDemoApp.pdb
+C:\_Killian Intelligence Systems\AlphaVantageDemoApp\AlphaVantageDemoApp\obj\Debug\netcoreapp3.1\AlphaVantageDemoApp.csprojAssemblyReference.cache

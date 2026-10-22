@@ -1,0 +1,28 @@
+### Data Set ###
+Dataset File Location=Data\RealDataB5.DATA
+
+### Backprop Configuration ###
+Epochs Per Interval=5
+Intervals=100
+
+### Network Topology ###
+Hidden Neurons=15000
+Hidden Layers=1
+
+### Training Configuration ###
+Max Weight Value=1.000000000000000
+Max Bias Value=1.000000000000000
+Initial rho value=0.000059873693924
+Rho multiplier=0.950000000000000
+Rho interval=5
+Use Momentum=0
+Momentum scaler=0.300000000000000
+Simulated annealing max percent(%)=1
+Simulated annealing interval=25
+
+### Save Data Settings ###
+Save Interval=10
+File Title=RealDataTest
+
+### Console Logging ###
+Console Logging Interval=1

@@ -1,0 +1,28 @@
+### Data Set ###
+Dataset file location=C:\_KillianIntelligentAnalytics\ProductionFiles\UtilityIndustry\UtilityIndustryIndustry_StockList_Large_05-19-2020 1138AM_Method16_100_0.DATA
+
+### Backprop Configuration ###
+Epochs Per Inteval=50
+Intervals=50
+
+### Network Topology ###
+Hidden Neurons=500
+Hidden Layers=2
+
+### Training Configuation ###
+Max weight value=0.0001
+Max bias value=0.00001
+Initial rho value=0.001
+Rho multiplier=0.999
+Dynamic rho interval=1
+Use Momentum=False
+Momentum Scaler=0.0000001
+Simulated annealing max percent(%)=1
+Simulated annealing interval=500
+
+### Save Data Settings ###
+Save Interval=10
+File Title=UtilityLargeFinancialSet1_BPROP2
+
+### Console Logging ###
+Console Logging Interval=10

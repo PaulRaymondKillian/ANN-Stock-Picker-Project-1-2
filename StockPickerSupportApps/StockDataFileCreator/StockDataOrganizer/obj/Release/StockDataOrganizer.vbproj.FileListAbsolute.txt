@@ -1,0 +1,9 @@
+C:\SP\StockDataFileCreator\StockDataOrganizer\bin\Release\StockDataOrganizer.dll
+C:\SP\StockDataFileCreator\StockDataOrganizer\bin\Release\StockDataOrganizer.pdb
+C:\SP\StockDataFileCreator\StockDataOrganizer\bin\Release\StockDataOrganizer.xml
+C:\SP\StockDataFileCreator\StockDataOrganizer\obj\Release\ResolveAssemblyReference.cache
+C:\SP\StockDataFileCreator\StockDataOrganizer\obj\Release\StockDataOrganizer.Resources.resources
+C:\SP\StockDataFileCreator\StockDataOrganizer\obj\Release\StockDataOrganizer.vbproj.GenerateResource.Cache
+C:\SP\StockDataFileCreator\StockDataOrganizer\obj\Release\StockDataOrganizer.dll
+C:\SP\StockDataFileCreator\StockDataOrganizer\obj\Release\StockDataOrganizer.xml
+C:\SP\StockDataFileCreator\StockDataOrganizer\obj\Release\StockDataOrganizer.pdb

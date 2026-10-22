@@ -1,0 +1,9 @@
+C:\Killian Intelligence Systems\StockPicker\SP_InputScrubber\SP_InputScrubber_XSG\SP_InputScrubber\bin\Release\SP_InputScrubber.dll
+C:\Killian Intelligence Systems\StockPicker\SP_InputScrubber\SP_InputScrubber_XSG\SP_InputScrubber\bin\Release\SP_InputScrubber.pdb
+C:\Killian Intelligence Systems\StockPicker\SP_InputScrubber\SP_InputScrubber_XSG\SP_InputScrubber\bin\Release\SP_InputScrubber.xml
+C:\Killian Intelligence Systems\StockPicker\SP_InputScrubber\SP_InputScrubber_XSG\SP_InputScrubber\obj\Release\ResolveAssemblyReference.cache
+C:\Killian Intelligence Systems\StockPicker\SP_InputScrubber\SP_InputScrubber_XSG\SP_InputScrubber\obj\Release\SP_InputScrubber.Resources.resources
+C:\Killian Intelligence Systems\StockPicker\SP_InputScrubber\SP_InputScrubber_XSG\SP_InputScrubber\obj\Release\SP_InputScrubber.vbproj.GenerateResource.Cache
+C:\Killian Intelligence Systems\StockPicker\SP_InputScrubber\SP_InputScrubber_XSG\SP_InputScrubber\obj\Release\SP_InputScrubber.dll
+C:\Killian Intelligence Systems\StockPicker\SP_InputScrubber\SP_InputScrubber_XSG\SP_InputScrubber\obj\Release\SP_InputScrubber.xml
+C:\Killian Intelligence Systems\StockPicker\SP_InputScrubber\SP_InputScrubber_XSG\SP_InputScrubber\obj\Release\SP_InputScrubber.pdb

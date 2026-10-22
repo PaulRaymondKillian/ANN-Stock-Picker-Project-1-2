@@ -1,0 +1,27 @@
+C:\SP\StockDataFileCreator\StockDataOrganizer\bin\Debug\StockDataOrganizer.dll
+C:\SP\StockDataFileCreator\StockDataOrganizer\bin\Debug\StockDataOrganizer.pdb
+C:\SP\StockDataFileCreator\StockDataOrganizer\bin\Debug\StockDataOrganizer.xml
+C:\SP\StockDataFileCreator\StockDataOrganizer\obj\Debug\ResolveAssemblyReference.cache
+C:\SP\StockDataFileCreator\StockDataOrganizer\obj\Debug\StockDataOrganizer.Resources.resources
+C:\SP\StockDataFileCreator\StockDataOrganizer\obj\Debug\StockDataOrganizer.vbproj.GenerateResource.Cache
+C:\SP\StockDataFileCreator\StockDataOrganizer\obj\Debug\StockDataOrganizer.dll
+C:\SP\StockDataFileCreator\StockDataOrganizer\obj\Debug\StockDataOrganizer.xml
+C:\SP\StockDataFileCreator\StockDataOrganizer\obj\Debug\StockDataOrganizer.pdb
+C:\SP\StockDataFileCreator_SS\StockDataOrganizer\bin\Debug\StockDataOrganizer.dll
+C:\SP\StockDataFileCreator_SS\StockDataOrganizer\bin\Debug\StockDataOrganizer.pdb
+C:\SP\StockDataFileCreator_SS\StockDataOrganizer\bin\Debug\StockDataOrganizer.xml
+C:\SP\StockDataFileCreator_SS\StockDataOrganizer\obj\Debug\ResolveAssemblyReference.cache
+C:\SP\StockDataFileCreator_SS\StockDataOrganizer\obj\Debug\StockDataOrganizer.Resources.resources
+C:\SP\StockDataFileCreator_SS\StockDataOrganizer\obj\Debug\StockDataOrganizer.vbproj.GenerateResource.Cache
+C:\SP\StockDataFileCreator_SS\StockDataOrganizer\obj\Debug\StockDataOrganizer.dll
+C:\SP\StockDataFileCreator_SS\StockDataOrganizer\obj\Debug\StockDataOrganizer.xml
+C:\SP\StockDataFileCreator_SS\StockDataOrganizer\obj\Debug\StockDataOrganizer.pdb
+C:\Killian Intelligence Systems\StockPickerSupportApps\StockDataFileCreator_SS\StockDataOrganizer\bin\Debug\StockDataOrganizer.dll
+C:\Killian Intelligence Systems\StockPickerSupportApps\StockDataFileCreator_SS\StockDataOrganizer\bin\Debug\StockDataOrganizer.pdb
+C:\Killian Intelligence Systems\StockPickerSupportApps\StockDataFileCreator_SS\StockDataOrganizer\bin\Debug\StockDataOrganizer.xml
+C:\Killian Intelligence Systems\StockPickerSupportApps\StockDataFileCreator_SS\StockDataOrganizer\obj\Debug\ResolveAssemblyReference.cache
+C:\Killian Intelligence Systems\StockPickerSupportApps\StockDataFileCreator_SS\StockDataOrganizer\obj\Debug\StockDataOrganizer.Resources.resources
+C:\Killian Intelligence Systems\StockPickerSupportApps\StockDataFileCreator_SS\StockDataOrganizer\obj\Debug\StockDataOrganizer.vbproj.GenerateResource.Cache
+C:\Killian Intelligence Systems\StockPickerSupportApps\StockDataFileCreator_SS\StockDataOrganizer\obj\Debug\StockDataOrganizer.dll
+C:\Killian Intelligence Systems\StockPickerSupportApps\StockDataFileCreator_SS\StockDataOrganizer\obj\Debug\StockDataOrganizer.xml
+C:\Killian Intelligence Systems\StockPickerSupportApps\StockDataFileCreator_SS\StockDataOrganizer\obj\Debug\StockDataOrganizer.pdb

@@ -1,0 +1,29 @@
+### Data Set ###
+Dataset file location=C:\SP\Test\Test.DATA
+
+### Population Configuration ###
+Population Size=10
+Generations=1
+Epochs Per Generation=1
+New Generation Method=1
+
+### Network Topology ###
+Hidden Neurons=10
+Hidden Layers=1
+
+### Training Configuation ###
+Max weight value=1
+Max bias value= 1
+Initial rho value=0.00000001
+Rho multiplier=0.99999
+Dynamic rho interval=200
+Use Momentum=False
+Momentum Scaler=0.3
+Simulated annealing max percent(%)=1
+
+### Save Data Settings ###
+Generation Save Interval=1
+File Title=xTestx
+
+### Console Logging ###
+Verbose Logging=True

@@ -1,0 +1,441 @@
+Processing data for Calpine Corporation.
+---Inserting '2011-04-15' with 'open' = '16.22, 'high' = '16.30, 'low' = '16.07, 'close' = 16.23, 'volume' = '1002100, 'adjusted close' = 16.23'.
+---Inserting '2011-04-14' with 'open' = '15.97, 'high' = '16.26, 'low' = '15.86, 'close' = 16.16, 'volume' = '1118800, 'adjusted close' = 16.16'.
+---Inserting '2011-04-13' with 'open' = '16.16, 'high' = '16.36, 'low' = '16.03, 'close' = 16.08, 'volume' = '1131200, 'adjusted close' = 16.08'.
+---Inserting '2011-04-12' with 'open' = '16.09, 'high' = '16.11, 'low' = '15.79, 'close' = 16.04, 'volume' = '1762400, 'adjusted close' = 16.04'.
+---Inserting '2011-04-11' with 'open' = '16.58, 'high' = '16.65, 'low' = '16.13, 'close' = 16.19, 'volume' = '1869900, 'adjusted close' = 16.19'.
+Processing data for U.S. Geothermal Inc..
+---Inserting '2011-04-15' with 'open' = '1.02, 'high' = '1.05, 'low' = '1.00, 'close' = 1.02, 'volume' = '131000, 'adjusted close' = 1.02'.
+---Inserting '2011-04-14' with 'open' = '1.02, 'high' = '1.03, 'low' = '1.00, 'close' = 1.02, 'volume' = '190700, 'adjusted close' = 1.02'.
+---Inserting '2011-04-13' with 'open' = '1.02, 'high' = '1.05, 'low' = '1.01, 'close' = 1.02, 'volume' = '171200, 'adjusted close' = 1.02'.
+---Inserting '2011-04-12' with 'open' = '1.05, 'high' = '1.07, 'low' = '1.01, 'close' = 1.02, 'volume' = '191500, 'adjusted close' = 1.02'.
+---Inserting '2011-04-11' with 'open' = '1.06, 'high' = '1.07, 'low' = '1.03, 'close' = 1.05, 'volume' = '232100, 'adjusted close' = 1.05'.
+Processing data for Pepco Holdings, Inc..
+---Inserting '2011-04-18' with 'open' = '18.40, 'high' = '18.48, 'low' = '18.23, 'close' = 18.33, 'volume' = '1753700, 'adjusted close' = 18.33'.
+---Inserting '2011-04-15' with 'open' = '18.38, 'high' = '18.61, 'low' = '18.36, 'close' = 18.55, 'volume' = '1676800, 'adjusted close' = 18.55'.
+---Inserting '2011-04-14' with 'open' = '18.21, 'high' = '18.40, 'low' = '18.15, 'close' = 18.35, 'volume' = '1363700, 'adjusted close' = 18.35'.
+---Inserting '2011-04-13' with 'open' = '18.31, 'high' = '18.50, 'low' = '18.24, 'close' = 18.24, 'volume' = '1281700, 'adjusted close' = 18.24'.
+---Inserting '2011-04-12' with 'open' = '18.20, 'high' = '18.41, 'low' = '18.17, 'close' = 18.21, 'volume' = '1059500, 'adjusted close' = 18.21'.
+Processing data for TECO Energy, Inc..
+---Inserting '2011-04-18' with 'open' = '18.69, 'high' = '18.71, 'low' = '18.44, 'close' = 18.54, 'volume' = '2377400, 'adjusted close' = 18.54'.
+---Inserting '2011-04-15' with 'open' = '18.71, 'high' = '18.99, 'low' = '18.68, 'close' = 18.86, 'volume' = '1540900, 'adjusted close' = 18.86'.
+---Inserting '2011-04-14' with 'open' = '18.43, 'high' = '18.69, 'low' = '18.37, 'close' = 18.68, 'volume' = '1642900, 'adjusted close' = 18.68'.
+---Inserting '2011-04-13' with 'open' = '18.56, 'high' = '18.72, 'low' = '18.44, 'close' = 18.52, 'volume' = '1821300, 'adjusted close' = 18.52'.
+---Inserting '2011-04-12' with 'open' = '18.67, 'high' = '18.77, 'low' = '18.50, 'close' = 18.51, 'volume' = '1857100, 'adjusted close' = 18.51'.
+Processing data for Cleco Corporation.
+---Inserting '2011-04-18' with 'open' = '34.31, 'high' = '34.51, 'low' = '33.91, 'close' = 34.18, 'volume' = '599400, 'adjusted close' = 34.18'.
+---Inserting '2011-04-15' with 'open' = '34.56, 'high' = '34.87, 'low' = '34.42, 'close' = 34.60, 'volume' = '535600, 'adjusted close' = 34.60'.
+---Inserting '2011-04-14' with 'open' = '34.15, 'high' = '34.66, 'low' = '34.04, 'close' = 34.58, 'volume' = '354800, 'adjusted close' = 34.58'.
+---Inserting '2011-04-13' with 'open' = '34.53, 'high' = '34.63, 'low' = '34.18, 'close' = 34.27, 'volume' = '410900, 'adjusted close' = 34.27'.
+---Inserting '2011-04-12' with 'open' = '34.56, 'high' = '34.68, 'low' = '34.20, 'close' = 34.30, 'volume' = '345000, 'adjusted close' = 34.30'.
+Processing data for CenterPoint Energy, Inc..
+---Inserting '2011-04-18' with 'open' = '17.73, 'high' = '17.83, 'low' = '17.51, 'close' = 17.82, 'volume' = '4153600, 'adjusted close' = 17.82'.
+---Inserting '2011-04-15' with 'open' = '17.77, 'high' = '17.93, 'low' = '17.60, 'close' = 17.88, 'volume' = '4858400, 'adjusted close' = 17.88'.
+---Inserting '2011-04-14' with 'open' = '17.17, 'high' = '17.74, 'low' = '17.17, 'close' = 17.64, 'volume' = '5047800, 'adjusted close' = 17.64'.
+---Inserting '2011-04-13' with 'open' = '17.28, 'high' = '17.52, 'low' = '17.28, 'close' = 17.32, 'volume' = '4277700, 'adjusted close' = 17.32'.
+---Inserting '2011-04-12' with 'open' = '17.23, 'high' = '17.27, 'low' = '17.10, 'close' = 17.23, 'volume' = '3880100, 'adjusted close' = 17.23'.
+Processing data for Otter Tail Corporation.
+---Inserting '2011-04-18' with 'open' = '22.49, 'high' = '22.56, 'low' = '22.23, 'close' = 22.42, 'volume' = '131200, 'adjusted close' = 22.42'.
+---Inserting '2011-04-15' with 'open' = '22.20, 'high' = '22.76, 'low' = '22.20, 'close' = 22.65, 'volume' = '278400, 'adjusted close' = 22.65'.
+---Inserting '2011-04-14' with 'open' = '21.91, 'high' = '22.32, 'low' = '21.91, 'close' = 22.31, 'volume' = '65500, 'adjusted close' = 22.31'.
+---Inserting '2011-04-13' with 'open' = '22.18, 'high' = '22.26, 'low' = '21.99, 'close' = 22.05, 'volume' = '67900, 'adjusted close' = 22.05'.
+---Inserting '2011-04-12' with 'open' = '22.37, 'high' = '22.50, 'low' = '22.09, 'close' = 22.09, 'volume' = '64000, 'adjusted close' = 22.09'.
+Processing data for UniSource Energy Corp..
+---Inserting '2011-04-18' with 'open' = '35.70, 'high' = '35.89, 'low' = '35.48, 'close' = 35.63, 'volume' = '131000, 'adjusted close' = 35.63'.
+---Inserting '2011-04-15' with 'open' = '35.71, 'high' = '36.15, 'low' = '35.71, 'close' = 36.02, 'volume' = '166300, 'adjusted close' = 36.02'.
+---Inserting '2011-04-14' with 'open' = '35.47, 'high' = '35.79, 'low' = '35.41, 'close' = 35.78, 'volume' = '144200, 'adjusted close' = 35.78'.
+---Inserting '2011-04-13' with 'open' = '35.80, 'high' = '35.96, 'low' = '35.50, 'close' = 35.64, 'volume' = '149600, 'adjusted close' = 35.64'.
+---Inserting '2011-04-12' with 'open' = '36.00, 'high' = '36.30, 'low' = '35.60, 'close' = 35.62, 'volume' = '207600, 'adjusted close' = 35.62'.
+Processing data for Progress Energy, Inc..
+---Inserting '2011-04-18' with 'open' = '46.08, 'high' = '46.27, 'low' = '45.76, 'close' = 46.01, 'volume' = '1059200, 'adjusted close' = 46.01'.
+---Inserting '2011-04-15' with 'open' = '46.14, 'high' = '46.65, 'low' = '46.01, 'close' = 46.43, 'volume' = '1106100, 'adjusted close' = 46.43'.
+---Inserting '2011-04-14' with 'open' = '45.41, 'high' = '46.15, 'low' = '45.38, 'close' = 46.01, 'volume' = '1108500, 'adjusted close' = 46.01'.
+---Inserting '2011-04-13' with 'open' = '45.40, 'high' = '45.94, 'low' = '45.40, 'close' = 45.61, 'volume' = '1144100, 'adjusted close' = 45.61'.
+---Inserting '2011-04-12' with 'open' = '45.42, 'high' = '45.76, 'low' = '45.20, 'close' = 45.27, 'volume' = '1026600, 'adjusted close' = 45.27'.
+Processing data for Northeast Utilities System.
+---Inserting '2011-04-18' with 'open' = '33.67, 'high' = '33.74, 'low' = '33.31, 'close' = 33.48, 'volume' = '1952500, 'adjusted close' = 33.48'.
+---Inserting '2011-04-15' with 'open' = '33.74, 'high' = '34.08, 'low' = '33.74, 'close' = 33.96, 'volume' = '2052400, 'adjusted close' = 33.96'.
+---Inserting '2011-04-14' with 'open' = '33.74, 'high' = '33.83, 'low' = '33.57, 'close' = 33.77, 'volume' = '2565500, 'adjusted close' = 33.77'.
+---Inserting '2011-04-13' with 'open' = '34.17, 'high' = '34.26, 'low' = '33.78, 'close' = 33.88, 'volume' = '1685900, 'adjusted close' = 33.88'.
+---Inserting '2011-04-12' with 'open' = '34.10, 'high' = '34.28, 'low' = '34.02, 'close' = 34.07, 'volume' = '1711300, 'adjusted close' = 34.07'.
+Processing data for Constellation Energy Group, Inc..
+---Inserting '2011-04-18' with 'open' = '33.13, 'high' = '33.26, 'low' = '32.66, 'close' = 32.88, 'volume' = '2437100, 'adjusted close' = 32.88'.
+---Inserting '2011-04-15' with 'open' = '33.23, 'high' = '33.83, 'low' = '33.21, 'close' = 33.56, 'volume' = '2376800, 'adjusted close' = 33.56'.
+---Inserting '2011-04-14' with 'open' = '32.83, 'high' = '33.40, 'low' = '32.58, 'close' = 33.12, 'volume' = '2485200, 'adjusted close' = 33.12'.
+---Inserting '2011-04-13' with 'open' = '33.04, 'high' = '33.45, 'low' = '32.78, 'close' = 33.03, 'volume' = '1987000, 'adjusted close' = 33.03'.
+---Inserting '2011-04-12' with 'open' = '32.97, 'high' = '33.13, 'low' = '32.70, 'close' = 32.92, 'volume' = '2112200, 'adjusted close' = 32.92'.
+Processing data for NorthWestern Corporation.
+---Inserting '2011-04-15' with 'open' = '29.70, 'high' = '30.68, 'low' = '29.70, 'close' = 30.64, 'volume' = '332200, 'adjusted close' = 30.64'.
+---Inserting '2011-04-14' with 'open' = '29.40, 'high' = '29.83, 'low' = '29.37, 'close' = 29.81, 'volume' = '120800, 'adjusted close' = 29.81'.
+---Inserting '2011-04-13' with 'open' = '29.79, 'high' = '29.92, 'low' = '29.50, 'close' = 29.57, 'volume' = '201800, 'adjusted close' = 29.57'.
+---Inserting '2011-04-12' with 'open' = '29.91, 'high' = '30.12, 'low' = '29.71, 'close' = 29.71, 'volume' = '180300, 'adjusted close' = 29.71'.
+---Inserting '2011-04-11' with 'open' = '30.30, 'high' = '30.35, 'low' = '29.95, 'close' = 30.08, 'volume' = '181600, 'adjusted close' = 30.08'.
+Processing data for Alliant Energy Corporation.
+---Inserting '2011-04-18' with 'open' = '38.52, 'high' = '38.55, 'low' = '37.84, 'close' = 38.20, 'volume' = '667700, 'adjusted close' = 38.20'.
+---Inserting '2011-04-15' with 'open' = '38.40, 'high' = '38.99, 'low' = '38.30, 'close' = 38.83, 'volume' = '429000, 'adjusted close' = 38.83'.
+---Inserting '2011-04-14' with 'open' = '38.03, 'high' = '38.33, 'low' = '37.89, 'close' = 38.29, 'volume' = '263200, 'adjusted close' = 38.29'.
+---Inserting '2011-04-13' with 'open' = '38.21, 'high' = '38.49, 'low' = '38.14, 'close' = 38.21, 'volume' = '416800, 'adjusted close' = 38.21'.
+---Inserting '2011-04-12' with 'open' = '38.64, 'high' = '38.82, 'low' = '37.99, 'close' = 38.20, 'volume' = '777700, 'adjusted close' = 38.20'.
+Processing data for Edison International.
+---Inserting '2011-04-18' with 'open' = '38.43, 'high' = '38.64, 'low' = '38.04, 'close' = 38.18, 'volume' = '2773100, 'adjusted close' = 38.18'.
+---Inserting '2011-04-15' with 'open' = '38.34, 'high' = '38.87, 'low' = '38.20, 'close' = 38.72, 'volume' = '2937000, 'adjusted close' = 38.72'.
+---Inserting '2011-04-14' with 'open' = '37.99, 'high' = '38.23, 'low' = '37.60, 'close' = 38.20, 'volume' = '3121900, 'adjusted close' = 38.20'.
+---Inserting '2011-04-13' with 'open' = '38.01, 'high' = '38.40, 'low' = '37.91, 'close' = 38.17, 'volume' = '3842300, 'adjusted close' = 38.17'.
+---Inserting '2011-04-12' with 'open' = '37.42, 'high' = '38.27, 'low' = '37.23, 'close' = 37.92, 'volume' = '6574300, 'adjusted close' = 37.92'.
+Processing data for ITC Holdings Corp..
+---Inserting '2011-04-18' with 'open' = '68.83, 'high' = '68.96, 'low' = '67.78, 'close' = 68.01, 'volume' = '158000, 'adjusted close' = 68.01'.
+---Inserting '2011-04-15' with 'open' = '68.80, 'high' = '69.51, 'low' = '68.80, 'close' = 69.19, 'volume' = '236000, 'adjusted close' = 69.19'.
+---Inserting '2011-04-14' with 'open' = '68.46, 'high' = '68.90, 'low' = '67.87, 'close' = 68.69, 'volume' = '67700, 'adjusted close' = 68.69'.
+---Inserting '2011-04-13' with 'open' = '68.14, 'high' = '68.69, 'low' = '68.00, 'close' = 68.23, 'volume' = '124800, 'adjusted close' = 68.23'.
+---Inserting '2011-04-12' with 'open' = '68.43, 'high' = '68.66, 'low' = '67.79, 'close' = 67.90, 'volume' = '105700, 'adjusted close' = 67.90'.
+---Inserting '2011-04-11' with 'open' = '69.19, 'high' = '69.46, 'low' = '68.35, 'close' = 68.59, 'volume' = '108700, 'adjusted close' = 68.59'.
+Processing data for Xcel Energy Inc..
+---Inserting '2011-04-18' with 'open' = '23.92, 'high' = '24.03, 'low' = '23.75, 'close' = 23.96, 'volume' = '2436400, 'adjusted close' = 23.96'.
+---Inserting '2011-04-15' with 'open' = '23.85, 'high' = '24.19, 'low' = '23.79, 'close' = 24.12, 'volume' = '2622600, 'adjusted close' = 24.12'.
+---Inserting '2011-04-14' with 'open' = '23.48, 'high' = '23.80, 'low' = '23.42, 'close' = 23.74, 'volume' = '2451100, 'adjusted close' = 23.74'.
+---Inserting '2011-04-13' with 'open' = '23.54, 'high' = '23.78, 'low' = '23.54, 'close' = 23.58, 'volume' = '2271900, 'adjusted close' = 23.58'.
+---Inserting '2011-04-12' with 'open' = '23.44, 'high' = '23.61, 'low' = '23.38, 'close' = 23.47, 'volume' = '2472400, 'adjusted close' = 23.47'.
+Processing data for NSTAR.
+---Inserting '2011-04-18' with 'open' = '43.97, 'high' = '43.98, 'low' = '43.33, 'close' = 43.75, 'volume' = '408800, 'adjusted close' = 43.75'.
+---Inserting '2011-04-15' with 'open' = '44.00, 'high' = '44.29, 'low' = '43.87, 'close' = 44.28, 'volume' = '545700, 'adjusted close' = 44.28'.
+---Inserting '2011-04-14' with 'open' = '43.87, 'high' = '44.03, 'low' = '43.73, 'close' = 43.96, 'volume' = '462500, 'adjusted close' = 43.96'.
+---Inserting '2011-04-13' with 'open' = '44.29, 'high' = '44.60, 'low' = '43.87, 'close' = 44.14, 'volume' = '1167300, 'adjusted close' = 44.14'.
+---Inserting '2011-04-12' with 'open' = '44.76, 'high' = '45.10, 'low' = '44.35, 'close' = 44.50, 'volume' = '910600, 'adjusted close' = 44.50'.
+Processing data for Integrys Energy Group, Inc..
+---Inserting '2011-04-18' with 'open' = '50.21, 'high' = '50.71, 'low' = '49.70, 'close' = 50.03, 'volume' = '552300, 'adjusted close' = 50.03'.
+---Inserting '2011-04-15' with 'open' = '49.78, 'high' = '50.78, 'low' = '49.59, 'close' = 50.63, 'volume' = '658300, 'adjusted close' = 50.63'.
+---Inserting '2011-04-14' with 'open' = '49.33, 'high' = '49.71, 'low' = '49.10, 'close' = 49.62, 'volume' = '292800, 'adjusted close' = 49.62'.
+---Inserting '2011-04-13' with 'open' = '49.61, 'high' = '49.92, 'low' = '49.37, 'close' = 49.48, 'volume' = '338800, 'adjusted close' = 49.48'.
+---Inserting '2011-04-12' with 'open' = '49.41, 'high' = '49.94, 'low' = '49.23, 'close' = 49.39, 'volume' = '352400, 'adjusted close' = 49.39'.
+Processing data for Unitil Corporation.
+---Inserting '2011-04-18' with 'open' = '23.60, 'high' = '23.65, 'low' = '23.45, 'close' = 23.51, 'volume' = '13900, 'adjusted close' = 23.51'.
+---Inserting '2011-04-15' with 'open' = '23.43, 'high' = '23.80, 'low' = '23.39, 'close' = 23.73, 'volume' = '33000, 'adjusted close' = 23.73'.
+---Inserting '2011-04-14' with 'open' = '23.16, 'high' = '23.60, 'low' = '23.16, 'close' = 23.53, 'volume' = '15600, 'adjusted close' = 23.53'.
+---Inserting '2011-04-13' with 'open' = '23.52, 'high' = '23.70, 'low' = '23.14, 'close' = 23.27, 'volume' = '28600, 'adjusted close' = 23.27'.
+---Inserting '2011-04-12' with 'open' = '23.64, 'high' = '23.73, 'low' = '23.40, 'close' = 23.40, 'volume' = '15900, 'adjusted close' = 23.40'.
+Processing data for IDACORP, Inc..
+---Inserting '2011-04-18' with 'open' = '38.19, 'high' = '38.22, 'low' = '37.75, 'close' = 37.89, 'volume' = '441500, 'adjusted close' = 37.89'.
+---Inserting '2011-04-15' with 'open' = '38.30, 'high' = '38.74, 'low' = '38.26, 'close' = 38.60, 'volume' = '395900, 'adjusted close' = 38.60'.
+---Inserting '2011-04-14' with 'open' = '37.91, 'high' = '38.45, 'low' = '37.90, 'close' = 38.39, 'volume' = '236800, 'adjusted close' = 38.39'.
+---Inserting '2011-04-13' with 'open' = '38.25, 'high' = '38.38, 'low' = '38.09, 'close' = 38.15, 'volume' = '220900, 'adjusted close' = 38.15'.
+---Inserting '2011-04-12' with 'open' = '38.27, 'high' = '38.55, 'low' = '38.00, 'close' = 38.05, 'volume' = '173000, 'adjusted close' = 38.05'.
+Processing data for PG&E Corporation.
+---Inserting '2011-04-18' with 'open' = '45.02, 'high' = '45.05, 'low' = '44.52, 'close' = 44.65, 'volume' = '2392700, 'adjusted close' = 44.65'.
+---Inserting '2011-04-15' with 'open' = '44.23, 'high' = '44.97, 'low' = '44.18, 'close' = 44.86, 'volume' = '3192600, 'adjusted close' = 44.86'.
+---Inserting '2011-04-14' with 'open' = '43.70, 'high' = '44.15, 'low' = '43.60, 'close' = 44.06, 'volume' = '2261100, 'adjusted close' = 44.06'.
+---Inserting '2011-04-13' with 'open' = '43.80, 'high' = '44.28, 'low' = '43.75, 'close' = 43.86, 'volume' = '2392100, 'adjusted close' = 43.86'.
+---Inserting '2011-04-12' with 'open' = '43.93, 'high' = '44.24, 'low' = '43.62, 'close' = 43.74, 'volume' = '2783400, 'adjusted close' = 43.74'.
+Processing data for ALLETE, Inc..
+---Inserting '2011-04-18' with 'open' = '38.77, 'high' = '39.05, 'low' = '38.54, 'close' = 38.89, 'volume' = '135700, 'adjusted close' = 38.89'.
+---Inserting '2011-04-15' with 'open' = '38.44, 'high' = '39.31, 'low' = '38.44, 'close' = 39.21, 'volume' = '150900, 'adjusted close' = 39.21'.
+---Inserting '2011-04-14' with 'open' = '37.98, 'high' = '38.64, 'low' = '37.87, 'close' = 38.59, 'volume' = '61700, 'adjusted close' = 38.59'.
+---Inserting '2011-04-13' with 'open' = '38.46, 'high' = '38.64, 'low' = '38.07, 'close' = 38.25, 'volume' = '89200, 'adjusted close' = 38.25'.
+---Inserting '2011-04-12' with 'open' = '38.52, 'high' = '38.82, 'low' = '38.28, 'close' = 38.32, 'volume' = '61100, 'adjusted close' = 38.32'.
+Processing data for MGE Energy, Inc..
+---Inserting '2011-04-18' with 'open' = '40.59, 'high' = '40.85, 'low' = '40.21, 'close' = 40.44, 'volume' = '32200, 'adjusted close' = 40.44'.
+---Inserting '2011-04-15' with 'open' = '40.22, 'high' = '41.02, 'low' = '40.22, 'close' = 40.91, 'volume' = '57500, 'adjusted close' = 40.91'.
+---Inserting '2011-04-14' with 'open' = '40.00, 'high' = '40.47, 'low' = '40.00, 'close' = 40.45, 'volume' = '43500, 'adjusted close' = 40.45'.
+---Inserting '2011-04-13' with 'open' = '40.31, 'high' = '40.43, 'low' = '40.01, 'close' = 40.20, 'volume' = '52900, 'adjusted close' = 40.20'.
+---Inserting '2011-04-12' with 'open' = '40.46, 'high' = '40.58, 'low' = '40.20, 'close' = 40.20, 'volume' = '57500, 'adjusted close' = 40.20'.
+Processing data for TransAlta Corporation (USA).
+---Inserting '2011-04-18' with 'open' = '21.02, 'high' = '21.02, 'low' = '20.61, 'close' = 20.96, 'volume' = '26400, 'adjusted close' = 20.96'.
+---Inserting '2011-04-15' with 'open' = '20.95, 'high' = '21.16, 'low' = '20.91, 'close' = 21.07, 'volume' = '20700, 'adjusted close' = 21.07'.
+---Inserting '2011-04-14' with 'open' = '20.97, 'high' = '21.07, 'low' = '20.90, 'close' = 21.02, 'volume' = '20400, 'adjusted close' = 21.02'.
+---Inserting '2011-04-13' with 'open' = '21.25, 'high' = '21.32, 'low' = '21.01, 'close' = 21.06, 'volume' = '29600, 'adjusted close' = 21.06'.
+---Inserting '2011-04-12' with 'open' = '21.30, 'high' = '21.37, 'low' = '21.08, 'close' = 21.15, 'volume' = '30600, 'adjusted close' = 21.15'.
+Processing data for Consolidated Edison, Inc..
+---Inserting '2011-04-18' with 'open' = '50.32, 'high' = '50.58, 'low' = '50.09, 'close' = 50.23, 'volume' = '1523300, 'adjusted close' = 50.23'.
+---Inserting '2011-04-15' with 'open' = '50.23, 'high' = '50.89, 'low' = '50.15, 'close' = 50.71, 'volume' = '1475300, 'adjusted close' = 50.71'.
+---Inserting '2011-04-14' with 'open' = '49.91, 'high' = '50.18, 'low' = '49.80, 'close' = 50.09, 'volume' = '1142600, 'adjusted close' = 50.09'.
+---Inserting '2011-04-13' with 'open' = '50.16, 'high' = '50.40, 'low' = '50.02, 'close' = 50.10, 'volume' = '1130100, 'adjusted close' = 50.10'.
+---Inserting '2011-04-12' with 'open' = '50.15, 'high' = '50.37, 'low' = '49.87, 'close' = 49.97, 'volume' = '1411800, 'adjusted close' = 49.97'.
+Processing data for Dominion Resources, Inc..
+---Inserting '2011-04-18' with 'open' = '44.12, 'high' = '44.43, 'low' = '43.84, 'close' = 44.10, 'volume' = '2399300, 'adjusted close' = 44.10'.
+---Inserting '2011-04-15' with 'open' = '44.05, 'high' = '44.78, 'low' = '44.03, 'close' = 44.47, 'volume' = '2400100, 'adjusted close' = 44.47'.
+---Inserting '2011-04-14' with 'open' = '43.34, 'high' = '44.18, 'low' = '43.27, 'close' = 44.03, 'volume' = '2064100, 'adjusted close' = 44.03'.
+---Inserting '2011-04-13' with 'open' = '43.88, 'high' = '44.05, 'low' = '43.53, 'close' = 43.55, 'volume' = '2137700, 'adjusted close' = 43.55'.
+---Inserting '2011-04-12' with 'open' = '43.96, 'high' = '44.06, 'low' = '43.48, 'close' = 43.60, 'volume' = '3037100, 'adjusted close' = 43.60'.
+Processing data for The Empire District Electric Company.
+---Inserting '2011-04-18' with 'open' = '21.55, 'high' = '21.72, 'low' = '21.43, 'close' = 21.53, 'volume' = '129100, 'adjusted close' = 21.53'.
+---Inserting '2011-04-15' with 'open' = '21.48, 'high' = '21.77, 'low' = '21.43, 'close' = 21.74, 'volume' = '149700, 'adjusted close' = 21.74'.
+---Inserting '2011-04-14' with 'open' = '21.31, 'high' = '21.53, 'low' = '21.21, 'close' = 21.53, 'volume' = '131300, 'adjusted close' = 21.53'.
+---Inserting '2011-04-13' with 'open' = '21.43, 'high' = '21.58, 'low' = '21.34, 'close' = 21.34, 'volume' = '197100, 'adjusted close' = 21.34'.
+---Inserting '2011-04-12' with 'open' = '21.43, 'high' = '21.70, 'low' = '21.39, 'close' = 21.39, 'volume' = '112500, 'adjusted close' = 21.39'.
+Processing data for DPL Inc..
+---Inserting '2011-04-18' with 'open' = '27.64, 'high' = '27.79, 'low' = '27.33, 'close' = 27.59, 'volume' = '922900, 'adjusted close' = 27.59'.
+---Inserting '2011-04-15' with 'open' = '27.53, 'high' = '27.96, 'low' = '27.52, 'close' = 27.85, 'volume' = '624700, 'adjusted close' = 27.85'.
+---Inserting '2011-04-14' with 'open' = '27.10, 'high' = '27.64, 'low' = '27.01, 'close' = 27.54, 'volume' = '1076400, 'adjusted close' = 27.54'.
+---Inserting '2011-04-13' with 'open' = '27.40, 'high' = '27.55, 'low' = '27.18, 'close' = 27.22, 'volume' = '532900, 'adjusted close' = 27.22'.
+---Inserting '2011-04-12' with 'open' = '27.37, 'high' = '27.55, 'low' = '27.21, 'close' = 27.30, 'volume' = '382200, 'adjusted close' = 27.30'.
+Processing data for The Southern Company.
+---Inserting '2011-04-18' with 'open' = '38.14, 'high' = '38.36, 'low' = '37.93, 'close' = 38.28, 'volume' = '3988100, 'adjusted close' = 38.28'.
+---Inserting '2011-04-15' with 'open' = '38.02, 'high' = '38.50, 'low' = '37.87, 'close' = 38.33, 'volume' = '4789300, 'adjusted close' = 38.33'.
+---Inserting '2011-04-14' with 'open' = '37.50, 'high' = '37.93, 'low' = '37.43, 'close' = 37.84, 'volume' = '3747900, 'adjusted close' = 37.84'.
+---Inserting '2011-04-13' with 'open' = '37.58, 'high' = '37.85, 'low' = '37.52, 'close' = 37.58, 'volume' = '3000500, 'adjusted close' = 37.58'.
+---Inserting '2011-04-12' with 'open' = '37.71, 'high' = '37.78, 'low' = '37.48, 'close' = 37.48, 'volume' = '4006200, 'adjusted close' = 37.48'.
+Processing data for Wisconsin Energy Corporation.
+---Inserting '2011-04-18' with 'open' = '29.61, 'high' = '29.75, 'low' = '29.42, 'close' = 29.62, 'volume' = '1544700, 'adjusted close' = 29.62'.
+---Inserting '2011-04-15' with 'open' = '29.68, 'high' = '30.07, 'low' = '29.63, 'close' = 29.90, 'volume' = '933100, 'adjusted close' = 29.90'.
+---Inserting '2011-04-14' with 'open' = '29.50, 'high' = '29.75, 'low' = '29.39, 'close' = 29.67, 'volume' = '1049800, 'adjusted close' = 29.67'.
+---Inserting '2011-04-13' with 'open' = '29.58, 'high' = '29.86, 'low' = '29.58, 'close' = 29.63, 'volume' = '785500, 'adjusted close' = 29.63'.
+---Inserting '2011-04-12' with 'open' = '29.64, 'high' = '29.84, 'low' = '29.40, 'close' = 29.60, 'volume' = '913100, 'adjusted close' = 29.60'.
+Processing data for Empresa Nacional de Electricidad (ADR).
+---Inserting '2011-04-18' with 'open' = '53.27, 'high' = '53.56, 'low' = '52.91, 'close' = 53.33, 'volume' = '87900, 'adjusted close' = 53.33'.
+---Inserting '2011-04-15' with 'open' = '54.10, 'high' = '54.45, 'low' = '54.08, 'close' = 54.39, 'volume' = '77600, 'adjusted close' = 54.39'.
+---Inserting '2011-04-14' with 'open' = '54.24, 'high' = '54.54, 'low' = '53.83, 'close' = 54.44, 'volume' = '122200, 'adjusted close' = 54.44'.
+---Inserting '2011-04-13' with 'open' = '54.46, 'high' = '54.67, 'low' = '54.22, 'close' = 54.57, 'volume' = '110000, 'adjusted close' = 54.57'.
+---Inserting '2011-04-12' with 'open' = '54.51, 'high' = '54.55, 'low' = '53.83, 'close' = 54.01, 'volume' = '49500, 'adjusted close' = 54.01'.
+Processing data for SCANA Corporation.
+---Inserting '2011-04-18' with 'open' = '38.88, 'high' = '39.16, 'low' = '38.57, 'close' = 38.86, 'volume' = '683600, 'adjusted close' = 38.86'.
+---Inserting '2011-04-15' with 'open' = '39.09, 'high' = '39.34, 'low' = '38.94, 'close' = 39.20, 'volume' = '780200, 'adjusted close' = 39.20'.
+---Inserting '2011-04-14' with 'open' = '38.70, 'high' = '39.02, 'low' = '38.61, 'close' = 38.98, 'volume' = '561300, 'adjusted close' = 38.98'.
+---Inserting '2011-04-13' with 'open' = '38.76, 'high' = '39.02, 'low' = '38.73, 'close' = 38.88, 'volume' = '622600, 'adjusted close' = 38.88'.
+---Inserting '2011-04-12' with 'open' = '38.80, 'high' = '39.00, 'low' = '38.61, 'close' = 38.62, 'volume' = '564000, 'adjusted close' = 38.62'.
+Processing data for Duke Energy Corporation.
+---Inserting '2011-04-18' with 'open' = '18.27, 'high' = '18.34, 'low' = '18.15, 'close' = 18.21, 'volume' = '7160400, 'adjusted close' = 18.21'.
+---Inserting '2011-04-15' with 'open' = '18.28, 'high' = '18.47, 'low' = '18.23, 'close' = 18.37, 'volume' = '8497300, 'adjusted close' = 18.37'.
+---Inserting '2011-04-14' with 'open' = '18.05, 'high' = '18.25, 'low' = '18.00, 'close' = 18.21, 'volume' = '6589400, 'adjusted close' = 18.21'.
+---Inserting '2011-04-13' with 'open' = '18.04, 'high' = '18.23, 'low' = '18.02, 'close' = 18.08, 'volume' = '6493800, 'adjusted close' = 18.08'.
+---Inserting '2011-04-12' with 'open' = '18.15, 'high' = '18.23, 'low' = '17.95, 'close' = 17.99, 'volume' = '7955100, 'adjusted close' = 17.99'.
+Processing data for American Electric Power Company, Inc..
+---Inserting '2011-04-18' with 'open' = '35.20, 'high' = '35.45, 'low' = '34.96, 'close' = 35.31, 'volume' = '2887900, 'adjusted close' = 35.31'.
+---Inserting '2011-04-15' with 'open' = '35.23, 'high' = '35.57, 'low' = '35.12, 'close' = 35.46, 'volume' = '3941400, 'adjusted close' = 35.46'.
+---Inserting '2011-04-14' with 'open' = '34.93, 'high' = '35.21, 'low' = '34.75, 'close' = 35.17, 'volume' = '2410100, 'adjusted close' = 35.17'.
+---Inserting '2011-04-13' with 'open' = '34.83, 'high' = '35.11, 'low' = '34.72, 'close' = 34.92, 'volume' = '3957700, 'adjusted close' = 34.92'.
+---Inserting '2011-04-12' with 'open' = '34.75, 'high' = '34.94, 'low' = '34.37, 'close' = 34.59, 'volume' = '4659500, 'adjusted close' = 34.59'.
+Processing data for Hawaiian Electric Industries, Inc..
+---Inserting '2011-04-18' with 'open' = '24.48, 'high' = '24.48, 'low' = '24.11, 'close' = 24.24, 'volume' = '432800, 'adjusted close' = 24.24'.
+---Inserting '2011-04-15' with 'open' = '24.53, 'high' = '24.78, 'low' = '24.39, 'close' = 24.64, 'volume' = '398900, 'adjusted close' = 24.64'.
+---Inserting '2011-04-14' with 'open' = '24.26, 'high' = '24.43, 'low' = '24.20, 'close' = 24.42, 'volume' = '474100, 'adjusted close' = 24.42'.
+---Inserting '2011-04-13' with 'open' = '24.56, 'high' = '24.65, 'low' = '24.31, 'close' = 24.36, 'volume' = '289000, 'adjusted close' = 24.36'.
+---Inserting '2011-04-12' with 'open' = '24.54, 'high' = '24.64, 'low' = '24.40, 'close' = 24.46, 'volume' = '407700, 'adjusted close' = 24.46'.
+Processing data for Great Plains Energy Incorporated.
+---Inserting '2011-04-18' with 'open' = '19.92, 'high' = '20.00, 'low' = '19.60, 'close' = 19.70, 'volume' = '2007900, 'adjusted close' = 19.70'.
+---Inserting '2011-04-15' with 'open' = '19.99, 'high' = '20.20, 'low' = '19.92, 'close' = 20.07, 'volume' = '926100, 'adjusted close' = 20.07'.
+---Inserting '2011-04-14' with 'open' = '19.92, 'high' = '20.04, 'low' = '19.81, 'close' = 20.01, 'volume' = '846100, 'adjusted close' = 20.01'.
+---Inserting '2011-04-13' with 'open' = '20.12, 'high' = '20.28, 'low' = '19.92, 'close' = 20.01, 'volume' = '1321600, 'adjusted close' = 20.01'.
+---Inserting '2011-04-12' with 'open' = '20.24, 'high' = '20.39, 'low' = '20.05, 'close' = 20.09, 'volume' = '955300, 'adjusted close' = 20.09'.
+Processing data for El Paso Electric Company.
+---Inserting '2011-04-18' with 'open' = '30.00, 'high' = '30.13, 'low' = '29.55, 'close' = 29.92, 'volume' = '211700, 'adjusted close' = 29.92'.
+---Inserting '2011-04-15' with 'open' = '29.59, 'high' = '30.42, 'low' = '29.50, 'close' = 30.34, 'volume' = '302900, 'adjusted close' = 30.34'.
+---Inserting '2011-04-14' with 'open' = '29.09, 'high' = '29.70, 'low' = '29.09, 'close' = 29.65, 'volume' = '134200, 'adjusted close' = 29.65'.
+---Inserting '2011-04-13' with 'open' = '29.49, 'high' = '29.56, 'low' = '29.17, 'close' = 29.29, 'volume' = '167500, 'adjusted close' = 29.29'.
+---Inserting '2011-04-12' with 'open' = '29.56, 'high' = '29.82, 'low' = '29.33, 'close' = 29.36, 'volume' = '163700, 'adjusted close' = 29.36'.
+Processing data for Exelon Corporation.
+---Inserting '2011-04-18' with 'open' = '40.39, 'high' = '40.64, 'low' = '40.06, 'close' = 40.33, 'volume' = '2775900, 'adjusted close' = 40.33'.
+---Inserting '2011-04-15' with 'open' = '40.20, 'high' = '40.76, 'low' = '40.13, 'close' = 40.65, 'volume' = '3770800, 'adjusted close' = 40.65'.
+---Inserting '2011-04-14' with 'open' = '39.68, 'high' = '40.33, 'low' = '39.65, 'close' = 40.20, 'volume' = '4179400, 'adjusted close' = 40.20'.
+---Inserting '2011-04-13' with 'open' = '40.02, 'high' = '40.32, 'low' = '39.90, 'close' = 39.90, 'volume' = '2738200, 'adjusted close' = 39.90'.
+---Inserting '2011-04-12' with 'open' = '39.78, 'high' = '39.94, 'low' = '39.53, 'close' = 39.77, 'volume' = '3907800, 'adjusted close' = 39.77'.
+Processing data for A-Power Energy Generation Systems, Ltd..
+---Inserting '2011-04-15' with 'open' = '4.22, 'high' = '4.22, 'low' = '4.01, 'close' = 4.09, 'volume' = '534400, 'adjusted close' = 4.09'.
+---Inserting '2011-04-14' with 'open' = '4.03, 'high' = '4.24, 'low' = '4.00, 'close' = 4.19, 'volume' = '400400, 'adjusted close' = 4.19'.
+---Inserting '2011-04-13' with 'open' = '4.15, 'high' = '4.20, 'low' = '4.06, 'close' = 4.07, 'volume' = '374500, 'adjusted close' = 4.07'.
+---Inserting '2011-04-12' with 'open' = '4.19, 'high' = '4.24, 'low' = '4.10, 'close' = 4.15, 'volume' = '505800, 'adjusted close' = 4.15'.
+---Inserting '2011-04-11' with 'open' = '4.35, 'high' = '4.35, 'low' = '4.14, 'close' = 4.27, 'volume' = '451700, 'adjusted close' = 4.27'.
+Processing data for NV Energy, Inc..
+---Inserting '2011-04-18' with 'open' = '14.77, 'high' = '14.82, 'low' = '14.56, 'close' = 14.66, 'volume' = '1646800, 'adjusted close' = 14.66'.
+---Inserting '2011-04-15' with 'open' = '14.82, 'high' = '14.94, 'low' = '14.77, 'close' = 14.87, 'volume' = '857900, 'adjusted close' = 14.87'.
+---Inserting '2011-04-14' with 'open' = '14.63, 'high' = '14.81, 'low' = '14.58, 'close' = 14.78, 'volume' = '800800, 'adjusted close' = 14.78'.
+---Inserting '2011-04-13' with 'open' = '14.67, 'high' = '14.74, 'low' = '14.62, 'close' = 14.68, 'volume' = '854200, 'adjusted close' = 14.68'.
+---Inserting '2011-04-12' with 'open' = '14.70, 'high' = '14.78, 'low' = '14.60, 'close' = 14.64, 'volume' = '743800, 'adjusted close' = 14.64'.
+Processing data for Pinnacle West Capital Corporation.
+---Inserting '2011-04-18' with 'open' = '42.50, 'high' = '42.69, 'low' = '42.17, 'close' = 42.38, 'volume' = '410100, 'adjusted close' = 42.38'.
+---Inserting '2011-04-15' with 'open' = '42.66, 'high' = '43.09, 'low' = '42.52, 'close' = 42.96, 'volume' = '387600, 'adjusted close' = 42.96'.
+---Inserting '2011-04-14' with 'open' = '42.03, 'high' = '42.59, 'low' = '41.93, 'close' = 42.53, 'volume' = '603400, 'adjusted close' = 42.53'.
+---Inserting '2011-04-13' with 'open' = '42.23, 'high' = '42.52, 'low' = '42.07, 'close' = 42.08, 'volume' = '380900, 'adjusted close' = 42.08'.
+---Inserting '2011-04-12' with 'open' = '42.25, 'high' = '42.64, 'low' = '42.04, 'close' = 42.08, 'volume' = '574900, 'adjusted close' = 42.08'.
+Processing data for Portland General Electric Company.
+---Inserting '2011-04-18' with 'open' = '23.70, 'high' = '23.78, 'low' = '23.41, 'close' = 23.45, 'volume' = '676500, 'adjusted close' = 23.45'.
+---Inserting '2011-04-15' with 'open' = '23.85, 'high' = '24.10, 'low' = '23.79, 'close' = 23.87, 'volume' = '1194700, 'adjusted close' = 23.87'.
+---Inserting '2011-04-14' with 'open' = '23.36, 'high' = '23.88, 'low' = '23.30, 'close' = 23.85, 'volume' = '835000, 'adjusted close' = 23.85'.
+---Inserting '2011-04-13' with 'open' = '23.66, 'high' = '23.71, 'low' = '23.41, 'close' = 23.47, 'volume' = '602600, 'adjusted close' = 23.47'.
+---Inserting '2011-04-12' with 'open' = '23.75, 'high' = '23.97, 'low' = '23.54, 'close' = 23.55, 'volume' = '530500, 'adjusted close' = 23.55'.
+---Inserting '2011-04-11' with 'open' = '24.07, 'high' = '24.14, 'low' = '23.75, 'close' = 23.79, 'volume' = '305000, 'adjusted close' = 23.79'.
+Processing data for PPL Corporation.
+---Inserting '2011-04-18' with 'open' = '26.79, 'high' = '27.00, 'low' = '26.48, 'close' = 26.83, 'volume' = '7240800, 'adjusted close' = 26.83'.
+---Inserting '2011-04-15' with 'open' = '26.84, 'high' = '27.07, 'low' = '26.78, 'close' = 27.00, 'volume' = '7686900, 'adjusted close' = 27.00'.
+---Inserting '2011-04-14' with 'open' = '26.67, 'high' = '26.77, 'low' = '26.48, 'close' = 26.75, 'volume' = '7413800, 'adjusted close' = 26.75'.
+---Inserting '2011-04-13' with 'open' = '26.82, 'high' = '26.89, 'low' = '26.55, 'close' = 26.79, 'volume' = '15723800, 'adjusted close' = 26.79'.
+---Inserting '2011-04-12' with 'open' = '25.61, 'high' = '26.88, 'low' = '25.50, 'close' = 26.88, 'volume' = '101654600, 'adjusted close' = 26.88'.
+Processing data for Public Service Enterprise Group Inc..
+---Inserting '2011-04-18' with 'open' = '31.02, 'high' = '31.07, 'low' = '30.72, 'close' = 30.90, 'volume' = '2118300, 'adjusted close' = 30.90'.
+---Inserting '2011-04-15' with 'open' = '30.96, 'high' = '31.51, 'low' = '30.93, 'close' = 31.20, 'volume' = '2880200, 'adjusted close' = 31.20'.
+---Inserting '2011-04-14' with 'open' = '30.79, 'high' = '31.05, 'low' = '30.66, 'close' = 30.87, 'volume' = '2714200, 'adjusted close' = 30.87'.
+---Inserting '2011-04-13' with 'open' = '30.63, 'high' = '31.10, 'low' = '30.61, 'close' = 30.96, 'volume' = '3624700, 'adjusted close' = 30.96'.
+---Inserting '2011-04-12' with 'open' = '30.48, 'high' = '30.70, 'low' = '30.30, 'close' = 30.58, 'volume' = '3569100, 'adjusted close' = 30.58'.
+Processing data for Avista Corporation.
+---Inserting '2011-04-18' with 'open' = '23.12, 'high' = '23.23, 'low' = '22.96, 'close' = 23.19, 'volume' = '281200, 'adjusted close' = 23.19'.
+---Inserting '2011-04-15' with 'open' = '23.11, 'high' = '23.37, 'low' = '23.09, 'close' = 23.35, 'volume' = '327100, 'adjusted close' = 23.35'.
+---Inserting '2011-04-14' with 'open' = '22.87, 'high' = '23.18, 'low' = '22.81, 'close' = 23.15, 'volume' = '148200, 'adjusted close' = 23.15'.
+---Inserting '2011-04-13' with 'open' = '23.18, 'high' = '23.31, 'low' = '22.99, 'close' = 23.04, 'volume' = '288500, 'adjusted close' = 23.04'.
+---Inserting '2011-04-12' with 'open' = '23.07, 'high' = '23.42, 'low' = '23.07, 'close' = 23.12, 'volume' = '149400, 'adjusted close' = 23.12'.
+Processing data for National Grid plc (ADR).
+---Inserting '2011-04-18' with 'open' = '48.72, 'high' = '48.72, 'low' = '47.77, 'close' = 48.34, 'volume' = '514000, 'adjusted close' = 48.34'.
+---Inserting '2011-04-15' with 'open' = '49.34, 'high' = '49.50, 'low' = '49.16, 'close' = 49.44, 'volume' = '521300, 'adjusted close' = 49.44'.
+---Inserting '2011-04-14' with 'open' = '48.59, 'high' = '49.06, 'low' = '48.59, 'close' = 48.98, 'volume' = '427500, 'adjusted close' = 48.98'.
+---Inserting '2011-04-13' with 'open' = '48.90, 'high' = '49.09, 'low' = '48.68, 'close' = 48.77, 'volume' = '855700, 'adjusted close' = 48.77'.
+---Inserting '2011-04-12' with 'open' = '48.25, 'high' = '48.25, 'low' = '47.65, 'close' = 47.75, 'volume' = '571200, 'adjusted close' = 47.75'.
+---Inserting '2011-04-11' with 'open' = '48.66, 'high' = '48.83, 'low' = '48.31, 'close' = 48.36, 'volume' = '374300, 'adjusted close' = 48.36'.
+Processing data for Spectra Energy Corp..
+---Inserting '2011-04-18' with 'open' = '27.18, 'high' = '27.18, 'low' = '26.88, 'close' = 27.01, 'volume' = '3221100, 'adjusted close' = 27.01'.
+---Inserting '2011-04-15' with 'open' = '27.17, 'high' = '27.52, 'low' = '27.05, 'close' = 27.48, 'volume' = '4756700, 'adjusted close' = 27.48'.
+---Inserting '2011-04-14' with 'open' = '26.84, 'high' = '27.20, 'low' = '26.76, 'close' = 27.11, 'volume' = '2508500, 'adjusted close' = 27.11'.
+---Inserting '2011-04-13' with 'open' = '27.03, 'high' = '27.18, 'low' = '26.77, 'close' = 26.96, 'volume' = '3976000, 'adjusted close' = 26.96'.
+---Inserting '2011-04-12' with 'open' = '27.10, 'high' = '27.11, 'low' = '26.71, 'close' = 26.87, 'volume' = '3416200, 'adjusted close' = 26.87'.
+---Inserting '2011-04-11' with 'open' = '27.23, 'high' = '27.45, 'low' = '27.04, 'close' = 27.19, 'volume' = '4015800, 'adjusted close' = 27.19'.
+Processing data for Entergy Corporation.
+---Inserting '2011-04-18' with 'open' = '66.28, 'high' = '66.38, 'low' = '65.65, 'close' = 65.97, 'volume' = '1391300, 'adjusted close' = 65.97'.
+---Inserting '2011-04-15' with 'open' = '65.75, 'high' = '66.85, 'low' = '65.70, 'close' = 66.52, 'volume' = '1629300, 'adjusted close' = 66.52'.
+---Inserting '2011-04-14' with 'open' = '65.28, 'high' = '65.93, 'low' = '65.15, 'close' = 65.76, 'volume' = '1421400, 'adjusted close' = 65.76'.
+---Inserting '2011-04-13' with 'open' = '65.70, 'high' = '65.96, 'low' = '65.36, 'close' = 65.53, 'volume' = '1901300, 'adjusted close' = 65.53'.
+---Inserting '2011-04-12' with 'open' = '65.37, 'high' = '65.70, 'low' = '65.19, 'close' = 65.36, 'volume' = '2103800, 'adjusted close' = 65.36'.
+Processing data for Westar Energy, Inc..
+---Inserting '2011-04-18' with 'open' = '25.92, 'high' = '26.04, 'low' = '25.65, 'close' = 25.85, 'volume' = '1131900, 'adjusted close' = 25.85'.
+---Inserting '2011-04-15' with 'open' = '25.91, 'high' = '26.25, 'low' = '25.84, 'close' = 26.11, 'volume' = '844500, 'adjusted close' = 26.11'.
+---Inserting '2011-04-14' with 'open' = '25.65, 'high' = '25.86, 'low' = '25.58, 'close' = 25.85, 'volume' = '804400, 'adjusted close' = 25.85'.
+---Inserting '2011-04-13' with 'open' = '25.97, 'high' = '26.00, 'low' = '25.74, 'close' = 25.74, 'volume' = '534100, 'adjusted close' = 25.74'.
+---Inserting '2011-04-12' with 'open' = '25.82, 'high' = '26.05, 'low' = '25.71, 'close' = 25.75, 'volume' = '697900, 'adjusted close' = 25.75'.
+Processing data for FirstEnergy Corp..
+---Inserting '2011-04-18' with 'open' = '38.00, 'high' = '38.50, 'low' = '37.90, 'close' = 38.12, 'volume' = '2084000, 'adjusted close' = 38.12'.
+---Inserting '2011-04-15' with 'open' = '38.37, 'high' = '38.78, 'low' = '38.34, 'close' = 38.40, 'volume' = '3296500, 'adjusted close' = 38.40'.
+---Inserting '2011-04-14' with 'open' = '37.68, 'high' = '38.20, 'low' = '37.57, 'close' = 38.11, 'volume' = '3858100, 'adjusted close' = 38.11'.
+---Inserting '2011-04-13' with 'open' = '37.19, 'high' = '37.75, 'low' = '37.05, 'close' = 37.72, 'volume' = '4420500, 'adjusted close' = 37.72'.
+---Inserting '2011-04-12' with 'open' = '36.58, 'high' = '37.05, 'low' = '36.50, 'close' = 37.00, 'volume' = '3890200, 'adjusted close' = 37.00'.
+Processing data for UIL Holdings Corporation.
+---Inserting '2011-04-18' with 'open' = '30.19, 'high' = '30.41, 'low' = '30.00, 'close' = 30.13, 'volume' = '258000, 'adjusted close' = 30.13'.
+---Inserting '2011-04-15' with 'open' = '30.10, 'high' = '30.52, 'low' = '30.10, 'close' = 30.50, 'volume' = '230400, 'adjusted close' = 30.50'.
+---Inserting '2011-04-14' with 'open' = '29.87, 'high' = '30.19, 'low' = '29.80, 'close' = 30.19, 'volume' = '236800, 'adjusted close' = 30.19'.
+---Inserting '2011-04-13' with 'open' = '30.10, 'high' = '30.27, 'low' = '30.00, 'close' = 30.03, 'volume' = '303300, 'adjusted close' = 30.03'.
+---Inserting '2011-04-12' with 'open' = '30.07, 'high' = '30.12, 'low' = '29.90, 'close' = 29.99, 'volume' = '526600, 'adjusted close' = 29.99'.
+Processing data for Covanta Holding Corporation.
+---Inserting '2011-04-18' with 'open' = '16.45, 'high' = '16.49, 'low' = '16.30, 'close' = 16.41, 'volume' = '1063900, 'adjusted close' = 16.41'.
+---Inserting '2011-04-15' with 'open' = '16.61, 'high' = '16.69, 'low' = '16.50, 'close' = 16.56, 'volume' = '1605200, 'adjusted close' = 16.56'.
+---Inserting '2011-04-14' with 'open' = '16.65, 'high' = '16.69, 'low' = '16.52, 'close' = 16.60, 'volume' = '1556300, 'adjusted close' = 16.60'.
+---Inserting '2011-04-13' with 'open' = '16.97, 'high' = '17.01, 'low' = '16.66, 'close' = 16.68, 'volume' = '1855100, 'adjusted close' = 16.68'.
+---Inserting '2011-04-12' with 'open' = '17.14, 'high' = '17.25, 'low' = '16.92, 'close' = 16.96, 'volume' = '1449600, 'adjusted close' = 16.96'.
+Processing data for CH Energy Group, Inc..
+---Inserting '2011-04-18' with 'open' = '49.75, 'high' = '50.72, 'low' = '49.62, 'close' = 49.97, 'volume' = '32100, 'adjusted close' = 49.97'.
+---Inserting '2011-04-15' with 'open' = '49.66, 'high' = '50.61, 'low' = '49.66, 'close' = 50.47, 'volume' = '52100, 'adjusted close' = 50.47'.
+---Inserting '2011-04-14' with 'open' = '48.78, 'high' = '49.82, 'low' = '48.76, 'close' = 49.78, 'volume' = '32600, 'adjusted close' = 49.78'.
+---Inserting '2011-04-13' with 'open' = '49.37, 'high' = '49.51, 'low' = '48.97, 'close' = 49.03, 'volume' = '26200, 'adjusted close' = 49.03'.
+---Inserting '2011-04-12' with 'open' = '49.53, 'high' = '49.99, 'low' = '49.13, 'close' = 49.14, 'volume' = '26600, 'adjusted close' = 49.14'.
+Processing data for Dynegy Inc..
+---Inserting '2011-04-18' with 'open' = '5.68, 'high' = '5.76, 'low' = '5.62, 'close' = 5.74, 'volume' = '1367300, 'adjusted close' = 5.74'.
+---Inserting '2011-04-15' with 'open' = '5.71, 'high' = '5.75, 'low' = '5.64, 'close' = 5.75, 'volume' = '1743000, 'adjusted close' = 5.75'.
+---Inserting '2011-04-14' with 'open' = '5.64, 'high' = '5.74, 'low' = '5.51, 'close' = 5.73, 'volume' = '2899600, 'adjusted close' = 5.73'.
+---Inserting '2011-04-13' with 'open' = '5.66, 'high' = '5.97, 'low' = '5.48, 'close' = 5.70, 'volume' = '4019500, 'adjusted close' = 5.70'.
+---Inserting '2011-04-12' with 'open' = '5.70, 'high' = '5.71, 'low' = '5.62, 'close' = 5.66, 'volume' = '1297400, 'adjusted close' = 5.66'.
+Processing data for Enersis S.A. (ADR).
+---Inserting '2011-04-18' with 'open' = '20.49, 'high' = '20.67, 'low' = '20.32, 'close' = 20.46, 'volume' = '345600, 'adjusted close' = 20.46'.
+---Inserting '2011-04-15' with 'open' = '20.83, 'high' = '20.93, 'low' = '20.75, 'close' = 20.87, 'volume' = '236700, 'adjusted close' = 20.87'.
+---Inserting '2011-04-14' with 'open' = '20.63, 'high' = '20.79, 'low' = '20.55, 'close' = 20.78, 'volume' = '418400, 'adjusted close' = 20.78'.
+---Inserting '2011-04-13' with 'open' = '20.80, 'high' = '20.88, 'low' = '20.69, 'close' = 20.79, 'volume' = '316300, 'adjusted close' = 20.79'.
+---Inserting '2011-04-12' with 'open' = '20.76, 'high' = '20.88, 'low' = '20.56, 'close' = 20.64, 'volume' = '350800, 'adjusted close' = 20.64'.
+Processing data for Companhia Energetica Minas Gerais (ADR).
+---Inserting '2011-04-18' with 'open' = '19.82, 'high' = '19.84, 'low' = '19.31, 'close' = 19.70, 'volume' = '2666200, 'adjusted close' = 19.70'.
+---Inserting '2011-04-15' with 'open' = '19.85, 'high' = '19.97, 'low' = '19.70, 'close' = 19.73, 'volume' = '2328700, 'adjusted close' = 19.73'.
+---Inserting '2011-04-14' with 'open' = '19.91, 'high' = '20.00, 'low' = '19.76, 'close' = 19.88, 'volume' = '1958100, 'adjusted close' = 19.88'.
+---Inserting '2011-04-13' with 'open' = '19.95, 'high' = '20.01, 'low' = '19.60, 'close' = 19.80, 'volume' = '3020300, 'adjusted close' = 19.80'.
+---Inserting '2011-04-12' with 'open' = '19.90, 'high' = '20.11, 'low' = '19.65, 'close' = 19.73, 'volume' = '2378500, 'adjusted close' = 19.73'.
+Processing data for CMS Energy Corporation.
+---Inserting '2011-04-18' with 'open' = '19.13, 'high' = '19.14, 'low' = '18.85, 'close' = 18.90, 'volume' = '4234800, 'adjusted close' = 18.90'.
+---Inserting '2011-04-15' with 'open' = '19.11, 'high' = '19.37, 'low' = '19.10, 'close' = 19.28, 'volume' = '2360300, 'adjusted close' = 19.28'.
+---Inserting '2011-04-14' with 'open' = '18.88, 'high' = '19.12, 'low' = '18.80, 'close' = 19.04, 'volume' = '2760900, 'adjusted close' = 19.04'.
+---Inserting '2011-04-13' with 'open' = '18.99, 'high' = '19.08, 'low' = '18.92, 'close' = 18.96, 'volume' = '2261400, 'adjusted close' = 18.96'.
+---Inserting '2011-04-12' with 'open' = '18.83, 'high' = '18.95, 'low' = '18.70, 'close' = 18.93, 'volume' = '3576400, 'adjusted close' = 18.93'.
+Processing data for Black Hills Corporation.
+---Inserting '2011-04-18' with 'open' = '32.66, 'high' = '32.83, 'low' = '32.41, 'close' = 32.70, 'volume' = '220200, 'adjusted close' = 32.70'.
+---Inserting '2011-04-15' with 'open' = '32.54, 'high' = '33.11, 'low' = '32.39, 'close' = 32.98, 'volume' = '193600, 'adjusted close' = 32.98'.
+---Inserting '2011-04-14' with 'open' = '32.62, 'high' = '32.67, 'low' = '32.16, 'close' = 32.44, 'volume' = '381400, 'adjusted close' = 32.44'.
+---Inserting '2011-04-13' with 'open' = '33.08, 'high' = '33.26, 'low' = '32.46, 'close' = 32.66, 'volume' = '255000, 'adjusted close' = 32.66'.
+---Inserting '2011-04-12' with 'open' = '33.09, 'high' = '33.35, 'low' = '32.92, 'close' = 32.94, 'volume' = '199900, 'adjusted close' = 32.94'.
+Processing data for The AES Corporation.
+---Inserting '2011-04-18' with 'open' = '12.64, 'high' = '12.67, 'low' = '12.42, 'close' = 12.53, 'volume' = '6708800, 'adjusted close' = 12.53'.
+---Inserting '2011-04-15' with 'open' = '12.78, 'high' = '12.84, 'low' = '12.69, 'close' = 12.83, 'volume' = '5609300, 'adjusted close' = 12.83'.
+---Inserting '2011-04-14' with 'open' = '12.66, 'high' = '12.84, 'low' = '12.52, 'close' = 12.78, 'volume' = '5279300, 'adjusted close' = 12.78'.
+---Inserting '2011-04-13' with 'open' = '12.68, 'high' = '12.83, 'low' = '12.67, 'close' = 12.75, 'volume' = '3374400, 'adjusted close' = 12.75'.
+---Inserting '2011-04-12' with 'open' = '12.80, 'high' = '12.85, 'low' = '12.57, 'close' = 12.64, 'volume' = '4088500, 'adjusted close' = 12.64'.
+Processing data for DTE Energy Company.
+---Inserting '2011-04-18' with 'open' = '48.94, 'high' = '49.33, 'low' = '48.63, 'close' = 48.80, 'volume' = '843800, 'adjusted close' = 48.80'.
+---Inserting '2011-04-15' with 'open' = '48.58, 'high' = '49.48, 'low' = '48.53, 'close' = 49.34, 'volume' = '1095600, 'adjusted close' = 49.34'.
+---Inserting '2011-04-14' with 'open' = '48.23, 'high' = '48.48, 'low' = '48.06, 'close' = 48.37, 'volume' = '924200, 'adjusted close' = 48.37'.
+---Inserting '2011-04-13' with 'open' = '48.46, 'high' = '48.79, 'low' = '48.39, 'close' = 48.48, 'volume' = '1015900, 'adjusted close' = 48.48'.
+---Inserting '2011-04-12' with 'open' = '48.62, 'high' = '48.79, 'low' = '48.17, 'close' = 48.35, 'volume' = '736700, 'adjusted close' = 48.35'.
+Processing data for Ameren Corporation.
+---Inserting '2011-04-18' with 'open' = '28.52, 'high' = '28.77, 'low' = '28.34, 'close' = 28.40, 'volume' = '1567700, 'adjusted close' = 28.40'.
+---Inserting '2011-04-15' with 'open' = '28.33, 'high' = '28.90, 'low' = '28.26, 'close' = 28.83, 'volume' = '1875800, 'adjusted close' = 28.83'.
+---Inserting '2011-04-14' with 'open' = '27.95, 'high' = '28.26, 'low' = '27.90, 'close' = 28.25, 'volume' = '911300, 'adjusted close' = 28.25'.
+---Inserting '2011-04-13' with 'open' = '28.25, 'high' = '28.51, 'low' = '28.08, 'close' = 28.11, 'volume' = '1342400, 'adjusted close' = 28.11'.
+---Inserting '2011-04-12' with 'open' = '28.02, 'high' = '28.35, 'low' = '27.97, 'close' = 28.21, 'volume' = '1248300, 'adjusted close' = 28.21'.
+Processing data for Companhia Paranaense de Energia (ADR).
+---Inserting '2011-04-18' with 'open' = '28.04, 'high' = '28.36, 'low' = '27.58, 'close' = 28.20, 'volume' = '545900, 'adjusted close' = 28.20'.
+---Inserting '2011-04-15' with 'open' = '27.96, 'high' = '28.22, 'low' = '27.92, 'close' = 28.04, 'volume' = '722500, 'adjusted close' = 28.04'.
+---Inserting '2011-04-14' with 'open' = '27.82, 'high' = '28.18, 'low' = '27.78, 'close' = 27.97, 'volume' = '341900, 'adjusted close' = 27.97'.
+---Inserting '2011-04-13' with 'open' = '28.31, 'high' = '28.38, 'low' = '27.71, 'close' = 27.94, 'volume' = '340800, 'adjusted close' = 27.94'.
+---Inserting '2011-04-12' with 'open' = '28.30, 'high' = '28.45, 'low' = '27.86, 'close' = 27.94, 'volume' = '356700, 'adjusted close' = 27.94'.
+Processing data for Mirant Corporation.
+Processing data for Beacon Power Corp..
+---Inserting '2011-04-18' with 'open' = '1.76, 'high' = '1.76, 'low' = '1.64, 'close' = 1.69, 'volume' = '203100, 'adjusted close' = 1.69'.
+---Inserting '2011-04-15' with 'open' = '1.83, 'high' = '1.83, 'low' = '1.74, 'close' = 1.77, 'volume' = '243800, 'adjusted close' = 1.77'.
+---Inserting '2011-04-14' with 'open' = '1.91, 'high' = '1.91, 'low' = '1.80, 'close' = 1.80, 'volume' = '190400, 'adjusted close' = 1.80'.
+---Inserting '2011-04-13' with 'open' = '1.77, 'high' = '1.91, 'low' = '1.77, 'close' = 1.89, 'volume' = '347900, 'adjusted close' = 1.89'.
+---Inserting '2011-04-12' with 'open' = '1.79, 'high' = '1.81, 'low' = '1.74, 'close' = 1.77, 'volume' = '413100, 'adjusted close' = 1.77'.
+Processing data for OGE Energy Corp..
+---Inserting '2011-04-18' with 'open' = '50.98, 'high' = '50.98, 'low' = '50.11, 'close' = 50.30, 'volume' = '567400, 'adjusted close' = 50.30'.
+---Inserting '2011-04-15' with 'open' = '51.08, 'high' = '51.47, 'low' = '50.92, 'close' = 51.43, 'volume' = '488000, 'adjusted close' = 51.43'.
+---Inserting '2011-04-14' with 'open' = '50.32, 'high' = '50.95, 'low' = '50.03, 'close' = 50.91, 'volume' = '484000, 'adjusted close' = 50.91'.
+---Inserting '2011-04-13' with 'open' = '50.48, 'high' = '50.84, 'low' = '50.40, 'close' = 50.52, 'volume' = '342800, 'adjusted close' = 50.52'.
+---Inserting '2011-04-12' with 'open' = '50.89, 'high' = '50.94, 'low' = '50.12, 'close' = 50.33, 'volume' = '599200, 'adjusted close' = 50.33'.
+Processing data for NRG Energy, Inc..
+---Inserting '2011-04-18' with 'open' = '21.46, 'high' = '21.62, 'low' = '21.09, 'close' = 21.49, 'volume' = '2507200, 'adjusted close' = 21.49'.
+---Inserting '2011-04-15' with 'open' = '21.40, 'high' = '21.73, 'low' = '21.36, 'close' = 21.66, 'volume' = '2683500, 'adjusted close' = 21.66'.
+---Inserting '2011-04-14' with 'open' = '21.18, 'high' = '21.50, 'low' = '21.14, 'close' = 21.34, 'volume' = '1871300, 'adjusted close' = 21.34'.
+---Inserting '2011-04-13' with 'open' = '21.33, 'high' = '21.66, 'low' = '21.30, 'close' = 21.31, 'volume' = '2434100, 'adjusted close' = 21.31'.
+---Inserting '2011-04-12' with 'open' = '21.45, 'high' = '21.46, 'low' = '21.25, 'close' = 21.34, 'volume' = '3578200, 'adjusted close' = 21.34'.
+---Inserting '2011-04-11' with 'open' = '21.50, 'high' = '21.58, 'low' = '21.33, 'close' = 21.47, 'volume' = '2738300, 'adjusted close' = 21.47'.
+Processing data for PNM Resources, Inc..
+---Inserting '2011-04-18' with 'open' = '14.65, 'high' = '14.72, 'low' = '14.47, 'close' = 14.55, 'volume' = '732900, 'adjusted close' = 14.55'.
+---Inserting '2011-04-15' with 'open' = '14.59, 'high' = '14.81, 'low' = '14.56, 'close' = 14.81, 'volume' = '437400, 'adjusted close' = 14.81'.
+---Inserting '2011-04-14' with 'open' = '14.49, 'high' = '14.64, 'low' = '14.46, 'close' = 14.63, 'volume' = '505300, 'adjusted close' = 14.63'.
+---Inserting '2011-04-13' with 'open' = '14.54, 'high' = '14.65, 'low' = '14.49, 'close' = 14.57, 'volume' = '379100, 'adjusted close' = 14.57'.
+---Inserting '2011-04-12' with 'open' = '14.76, 'high' = '14.86, 'low' = '14.47, 'close' = 14.48, 'volume' = '501200, 'adjusted close' = 14.48'.
+Processing data for Allegheny Energy, Inc..
+Processing data for Huaneng Power International, Inc. (ADR).
+---Inserting '2011-04-18' with 'open' = '22.47, 'high' = '22.78, 'low' = '22.47, 'close' = 22.67, 'volume' = '327300, 'adjusted close' = 22.67'.
+---Inserting '2011-04-15' with 'open' = '23.63, 'high' = '23.82, 'low' = '23.62, 'close' = 23.74, 'volume' = '173200, 'adjusted close' = 23.74'.
+---Inserting '2011-04-14' with 'open' = '23.33, 'high' = '23.53, 'low' = '23.32, 'close' = 23.53, 'volume' = '90900, 'adjusted close' = 23.53'.
+---Inserting '2011-04-13' with 'open' = '23.42, 'high' = '23.60, 'low' = '23.39, 'close' = 23.51, 'volume' = '155000, 'adjusted close' = 23.51'.
+---Inserting '2011-04-12' with 'open' = '23.17, 'high' = '23.30, 'low' = '23.08, 'close' = 23.13, 'volume' = '129600, 'adjusted close' = 23.13'.
+Processing data for Korea Electric Power Corporation (ADR).
+---Inserting '2011-04-18' with 'open' = '11.88, 'high' = '11.97, 'low' = '11.81, 'close' = 11.86, 'volume' = '991000, 'adjusted close' = 11.86'.
+---Inserting '2011-04-15' with 'open' = '12.11, 'high' = '12.15, 'low' = '12.05, 'close' = 12.13, 'volume' = '372400, 'adjusted close' = 12.13'.
+---Inserting '2011-04-14' with 'open' = '12.03, 'high' = '12.18, 'low' = '12.01, 'close' = 12.16, 'volume' = '722900, 'adjusted close' = 12.16'.
+---Inserting '2011-04-13' with 'open' = '12.20, 'high' = '12.26, 'low' = '12.13, 'close' = 12.16, 'volume' = '735400, 'adjusted close' = 12.16'.
+---Inserting '2011-04-12' with 'open' = '12.02, 'high' = '12.13, 'low' = '11.89, 'close' = 12.08, 'volume' = '1222000, 'adjusted close' = 12.08'.
+Processing data for RRI Energy, Inc..
+Processing data for CPFL Energia S.A. (ADR).
+---Inserting '2011-04-18' with 'open' = '87.61, 'high' = '90.50, 'low' = '87.10, 'close' = 90.42, 'volume' = '408300, 'adjusted close' = 90.42'.
+---Inserting '2011-04-15' with 'open' = '86.88, 'high' = '86.98, 'low' = '85.79, 'close' = 86.84, 'volume' = '103700, 'adjusted close' = 86.84'.
+---Inserting '2011-04-14' with 'open' = '85.60, 'high' = '87.12, 'low' = '85.38, 'close' = 86.86, 'volume' = '108900, 'adjusted close' = 86.86'.
+---Inserting '2011-04-13' with 'open' = '87.19, 'high' = '87.20, 'low' = '84.54, 'close' = 85.65, 'volume' = '166200, 'adjusted close' = 85.65'.
+---Inserting '2011-04-12' with 'open' = '84.36, 'high' = '86.51, 'low' = '84.18, 'close' = 85.92, 'volume' = '200200, 'adjusted close' = 85.92'.
+---Inserting '2011-04-11' with 'open' = '86.07, 'high' = '86.43, 'low' = '84.21, 'close' = 84.42, 'volume' = '165300, 'adjusted close' = 84.42'.
+Processing data for Ocean Power Technologies, Inc..
+---Inserting '2011-04-15' with 'open' = '4.98, 'high' = '5.05, 'low' = '4.86, 'close' = 4.90, 'volume' = '57400, 'adjusted close' = 4.90'.
+---Inserting '2011-04-14' with 'open' = '4.96, 'high' = '5.09, 'low' = '4.91, 'close' = 5.02, 'volume' = '50400, 'adjusted close' = 5.02'.
+---Inserting '2011-04-13' with 'open' = '5.03, 'high' = '5.05, 'low' = '4.95, 'close' = 4.96, 'volume' = '42300, 'adjusted close' = 4.96'.
+---Inserting '2011-04-12' with 'open' = '5.05, 'high' = '5.12, 'low' = '5.01, 'close' = 5.02, 'volume' = '52700, 'adjusted close' = 5.02'.
+---Inserting '2011-04-11' with 'open' = '5.13, 'high' = '5.19, 'low' = '5.03, 'close' = 5.06, 'volume' = '26200, 'adjusted close' = 5.06'.
+Processing data for EnerNOC, Inc..
+---Inserting '2011-04-15' with 'open' = '17.14, 'high' = '17.23, 'low' = '16.58, 'close' = 17.04, 'volume' = '832700, 'adjusted close' = 17.04'.
+---Inserting '2011-04-14' with 'open' = '17.14, 'high' = '17.35, 'low' = '17.01, 'close' = 17.23, 'volume' = '318700, 'adjusted close' = 17.23'.
+---Inserting '2011-04-13' with 'open' = '17.82, 'high' = '18.00, 'low' = '17.08, 'close' = 17.23, 'volume' = '443800, 'adjusted close' = 17.23'.
+---Inserting '2011-04-12' with 'open' = '17.89, 'high' = '18.00, 'low' = '17.68, 'close' = 17.71, 'volume' = '288600, 'adjusted close' = 17.71'.
+---Inserting '2011-04-11' with 'open' = '18.44, 'high' = '18.53, 'low' = '18.00, 'close' = 18.14, 'volume' = '329800, 'adjusted close' = 18.14'.
+Processing data for Brookfield Infrastructure Partners L.P..
+---Inserting '2011-04-15' with 'open' = '23.14, 'high' = '23.45, 'low' = '23.11, 'close' = 23.44, 'volume' = '139000, 'adjusted close' = 23.44'.
+---Inserting '2011-04-14' with 'open' = '23.02, 'high' = '23.24, 'low' = '22.97, 'close' = 23.24, 'volume' = '203800, 'adjusted close' = 23.24'.
+---Inserting '2011-04-13' with 'open' = '23.00, 'high' = '23.15, 'low' = '22.85, 'close' = 23.10, 'volume' = '260700, 'adjusted close' = 23.10'.
+---Inserting '2011-04-12' with 'open' = '22.85, 'high' = '23.00, 'low' = '22.55, 'close' = 22.75, 'volume' = '254400, 'adjusted close' = 22.75'.
+---Inserting '2011-04-11' with 'open' = '22.62, 'high' = '23.03, 'low' = '22.52, 'close' = 22.90, 'volume' = '314500, 'adjusted close' = 22.90'.

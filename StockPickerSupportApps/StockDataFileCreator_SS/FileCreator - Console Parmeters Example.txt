@@ -1,0 +1,8 @@
+You can run this program through the console. It requires the following Parameters:
+
+FileCreator.exe "StockList" "Output File Save Location" "Start Date" "End Date"(Optional) 
+
+Example:
+	FileCreator.exe "JPM,BAC,TEG" "C:\SP\Test.RAW_DATA" "1,2,3,4,5,6" "1-2-2009" "1-2-2010"
+
+Make sure that the start date used is not a holiday or a weekend, otherwise no data will be outputted.

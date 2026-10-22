@@ -1,0 +1,6 @@
+You can run this program through the console. It requires the following Parameters:
+
+DataUploader.exe "Industry"
+
+Example:
+	DataUploader.exe "Electric Utilities"

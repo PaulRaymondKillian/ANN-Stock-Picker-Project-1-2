@@ -1,0 +1,3 @@
+Input File contains 0 parameters per stock per unit of time.
+Each input line contains 2 units of time per stock.
+Each input line contains results for 2 units of time in the future.

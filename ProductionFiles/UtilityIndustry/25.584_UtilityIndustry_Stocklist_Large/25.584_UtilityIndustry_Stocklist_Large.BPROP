@@ -1,0 +1,15 @@
+### Backprop Identification ###
+ID=6-B
+File Title=UtilityIndustry_Stocklist_Large
+
+### Input Files - !!! NEVER MODIFY THIS PART !!! ###
+DO NOT MODIFY: Dataset file location=C:\_KillianIntelligentAnalytics\ProductionFiles\UtilityIndustry\UtilityIndustryIndustry_StockList_Large_05-19-2020 1138AM_Method16_100_neg100.DATA
+DO NOT MODIFY: ANN file location=C:\_KillianIntelligentAnalytics\ProductionFiles\UtilityIndustry\25.584_UtilityIndustry_Stocklist_Large\25.584_UtilityIndustry_Stocklist_Large.ANN
+
+### Training Configuration ###
+Initial rho value=0.000010
+Rho multiplier=0.900000
+Rho interval=50
+Use Momentum=0
+Momentum scaler=0.300000
+Simulated annealing max percent(%)=1
